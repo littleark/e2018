@@ -1,0 +1,122 @@
+.bubbles-container {
+  position: relative;
+  width: 1000px;
+
+  ul.bubbles {
+    margin: 0;
+    padding: 0;
+    width: calc(100% - 5px);
+    position: relative;
+    list-style: none;
+    li {
+      position: absolute;
+      width: 50px;
+      height: 50px;
+      background-color: rgba(186,0,78,0.9);
+      overflow: visible;
+      border-radius: 50%;
+      border: 2px solid rgba(170,0,70,0.9);
+
+      &.small {
+        overflow: visible;
+      }
+
+      span {
+        font-family: 'Crimson Text', serif;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 18px;
+        position: absolute;
+        width: calc(100% - 20px);
+        text-align: center;
+        top: 50%;
+        transform: translate(0,-50%);
+        padding: 0 10px;
+
+        pointer-events: none;
+        &.inside {
+          border-radius: 50%;
+          overflow: hidden;
+          top:0;
+          bottom:0;
+          transform: translate(0,0);
+
+
+          h2 {
+            margin: 0;
+            padding: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            display: block;
+            position: absolute;
+            font-size: inherit;
+            line-height: inherit;
+          }
+        }
+        &.outside {
+          width: 200px;
+          right:-2px;
+          top: 0;
+          transform: translate(100%,-25%);
+          text-align: left;
+          border-top: 1px solid #888;
+          display: none;
+          background: rgba(255,255,255,0.9);
+          padding-left: 10px;
+          padding-top: 10px;
+          color: #333;
+          h3 {
+            padding: 0;
+            margin: 0;
+            color: #000;
+          }
+          h4 {
+            padding: 0;
+            margin: 0;
+            margin-top: 10px;
+          }
+        }
+      }
+
+      &:hover {
+        z-index: 99999;
+        border-color: #000;
+        span.outside {
+          display: block;
+        }
+      }
+    }
+  }
+  ul.timeline {
+    margin: 0;
+    padding: 0;
+    width: calc(100% - 5px);
+    height: 100%;
+    position: absolute;
+    top: 0;
+    list-style: none;
+    border-right: 1px solid #ddd;
+    li {
+      position: absolute;
+      right: 0;
+      font-size: 11px;
+      color: #bdbdbd;
+      padding-bottom: 2px;
+      padding-right: 10px;
+      border-bottom:1px solid #ddd;
+      width: 100px;
+      height: 14px;
+      span {
+        position: absolute;
+        display: inline-block;
+        background-color: #fff;
+        padding: 1px;
+        height: 100%;
+        top: 9px;
+        width: calc(100% - 15px);
+        text-align: right;
+        padding-right: 5px;
+      }
+    }
+  }
+}

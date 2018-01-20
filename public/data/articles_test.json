@@ -1,0 +1,177 @@
+{
+  "error": false,
+  "properties": {
+    "base_url": "https://api.elezioni.io",
+    "theme_url": "https://api.elezioni.io/themes/e.io",
+    "my_url": "browse/?page_size=100",
+    "my_url_clean": "browse/",
+    "referer": null,
+    "time": 1516358647,
+    "UTCDateTime": "2018-01-19T10:44:07+00:00",
+    "debug": 32767
+  },
+  "page": 0,
+  "articles": [
+    {
+      "id": "131801",
+      "date_published": "2018-01-19 11:07:07",
+      "date_added": "2018-01-19 11:28:32",
+      "date_modified": "2018-01-19 11:28:33",
+      "title": "L’ex presidente del Senato Grasso in Provincia ad Asti, Cinque stelle in attesa del verdetto Parlamentarie",
+      "source": "www.lastampa.it",
+      "description": "Mentre si stanno definendo le candidature in vista delle Politiche del 4 marzo, primi appuntamenti elettorali.Domenica 21 gennaio ad Asti arriva Pietro Grasso: il presidente del Senato e candidato p",
+      "tags": [
+        "cinque stelle",
+        "asti"
+      ],
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/19/edizioni/asti/lex-presidente-del-senato-grasso-in-provincia-ad-asti-cinque-stelle-in-attesa-del-verdetto-parlamentarie-1UOz0Tx5BsUi8iqRBAQmpO/pagina.html?utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "StampaAsti",
+      "flags": "0",
+      "short_published": "19-01-2018 11:07",
+      "timestamp_published": "1516356427",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "0",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131705",
+      "date_published": "2018-01-19 11:02:45",
+      "date_added": "2018-01-19 11:27:15",
+      "date_modified": "2018-01-19 11:27:16",
+      "title": "Berlusconi, flat tax al 23%, e scenderà - Lombardia",
+      "source": "www.ansa.it",
+      "description": "\"Punto fondamentale\" del programma fiscale del centrodestra \"è quello che determina una vera\r\nrivoluzione nella fiscalità: è la flat tax, uguale per famiglie e imprese e che rimane sempre\r\nidentica qualunque siano i redditi\". © ANSA",
+      "tags": [
+        "berlusconi",
+        "centrodestra"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/lombardia/notizie/2018/01/19/berlusconi-flat-tax-al-23-e-scendera_468bedb3-12a4-40a6-87f9-9550d9d87660.html",
+      "popularity": "50",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "LombardiaBT",
+      "flags": "0",
+      "short_published": "19-01-2018 11:02",
+      "timestamp_published": "1516356165",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "50",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131706",
+      "date_published": "2018-01-19 11:02:45",
+      "date_added": "2018-01-19 11:27:15",
+      "date_modified": "2018-01-19 11:27:16",
+      "title": "Berlusconi, flat tax al 23%, e scenderà - Lombardia",
+      "source": "www.ansa.it",
+      "description": "\"Punto fondamentale\" del programma fiscale del centrodestra \"è quello che determina una vera\r\nrivoluzione nella fiscalità: è la flat tax, uguale per famiglie e imprese e che rimane sempre\r\nidentica qualunque siano i redditi\". © ANSA",
+      "tags": [
+        "berlusconi",
+        "centrodestra"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/lombardia/notizie/2018/01/19/berlusconi-flat-tax-al-23-e-scendera_468bedb3-12a4-40a6-87f9-9550d9d87660.html",
+      "popularity": "100",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "LombardiaBT",
+      "flags": "0",
+      "short_published": "19-01-2018 11:02",
+      "timestamp_published": "1516356165",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "100",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131707",
+      "date_published": "2018-01-19 11:02:45",
+      "date_added": "2018-01-19 11:27:15",
+      "date_modified": "2018-01-19 11:27:16",
+      "title": "Berlusconi, flat tax al 23%, e scenderà - Lombardia",
+      "source": "www.ansa.it",
+      "description": "\"Punto fondamentale\" del programma fiscale del centrodestra \"è quello che determina una vera\r\nrivoluzione nella fiscalità: è la flat tax, uguale per famiglie e imprese e che rimane sempre\r\nidentica qualunque siano i redditi\". © ANSA",
+      "tags": [
+        "berlusconi",
+        "centrodestra"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/lombardia/notizie/2018/01/19/berlusconi-flat-tax-al-23-e-scendera_468bedb3-12a4-40a6-87f9-9550d9d87660.html",
+      "popularity": "30",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "LombardiaBT",
+      "flags": "0",
+      "short_published": "19-01-2018 11:02",
+      "timestamp_published": "1516356165",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "80",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    }
+  ],
+  "message": "OK",
+  "page_size": "100",
+  "offset": 0,
+  "total_articles": "1332",
+  "total_pages": 14
+}

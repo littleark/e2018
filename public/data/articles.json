@@ -1,0 +1,1446 @@
+{
+  "error": false,
+  "properties": {
+    "base_url": "https://elezioni.io",
+    "theme_url": "https://elezioni.io/themes/e.io",
+    "my_url": "browse/?page_size=10000",
+    "my_url_clean": "browse/",
+    "referer": null,
+    "time": 1516026714,
+    "UTCDateTime": "2018-01-15T14:31:54+00:00",
+    "debug": 32767
+  },
+  "page": 0,
+  "articles": [
+    {
+      "id": "16299",
+      "date_published": "2018-01-15 15:15:08",
+      "date_added": "2018-01-15 15:24:10",
+      "date_modified": "2018-01-15 15:24:12",
+      "title": "Banche, correntisti italiani tra i meno digitali d'Europa",
+      "source": "economia.ilmessaggero.it",
+      "description": "L'Italia è fra i Paesi in Europa dove si fa meno ricorso all'home banking, cioè all'uso di servizi bancari via internet....",
+      "tags": null,
+      "image": "",
+      "url": "http://economia.ilmessaggero.it/economia_e_finanza/banche_europa_correntisti-3485345.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "thexeon",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:15",
+      "timestamp_published": "1516025708",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "16262",
+      "date_published": "2018-01-15 15:15:07",
+      "date_added": "2018-01-15 15:23:57",
+      "date_modified": "2018-01-15 15:24:33",
+      "title": "Quici (Cimo): «Sostenibilità ed equità del Ssn, la vera questione politica»",
+      "source": "www.sanita24.ilsole24ore.com",
+      "description": "Il documento conclusivo sull'indagine e analisi dello stato di salute del nostro Ssn, votato all'unanimità dalla Commissione Sanità del Senato, offre l'opportunità per alcune riflessioni non solo",
+      "tags": null,
+      "image": "",
+      "url": "http://www.sanita24.ilsole24ore.com/art/dal-governo/2018-01-12/quici-cimo-sostenibilita-ed-equita-ssn-vera-questione-politica-173258.php?uuid=AEIzyWhD",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Assinfermieri",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:15",
+      "timestamp_published": "1516025707",
+      "collections": [
+        {
+          "id": "11",
+          "name": "Sanità",
+          "slug": "sanita"
+        }
+      ]
+    },
+    {
+      "id": "16235",
+      "date_published": "2018-01-15 15:14:59",
+      "date_added": "2018-01-15 15:23:48",
+      "date_modified": "2018-01-15 15:24:17",
+      "title": "Figc: Lega spaccata, senza unità rischia il commissariamento",
+      "source": "tg.la7.it",
+      "description": "I tre candidati, Tommasi, Sibilia e Gravina, dovranno cercare alleanze per le elezioni del 29 gennaio. Il rischio è il ballottaggio, che porterebbe alla elezione di un presidente privo di una maggioranza, dunque potenzialmente commissariabile dal Coni ",
+      "tags": null,
+      "image": "",
+      "url": "http://tg.la7.it/sport/figc-lega-spaccata-senza-unità-rischia-il-commissariamento-15-01-2018-123731",
+      "popularity": "1.5",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "ErsiliaLombardo",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:14",
+      "timestamp_published": "1516025699",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "16276",
+      "date_published": "2018-01-15 15:13:54",
+      "date_added": "2018-01-15 15:24:03",
+      "date_modified": "2018-01-15 15:24:06",
+      "title": "Dipartimento mamme, la dirigente Pd: \"Salviamo la razza italiana\"",
+      "source": "www.ilgiornale.it",
+      "description": "La dem Prestipino difende il dipartimento creato da Renzi: &quot;Sostegno alle mamme per continuare la razza italiana&quot;. È polemica",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/dipartimento-mamme-dirigente-pd-salviamo-razza-italiana-1424523.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "ACaldoro",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:13",
+      "timestamp_published": "1516025634",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16233",
+      "date_published": "2018-01-15 15:13:44",
+      "date_added": "2018-01-15 15:23:47",
+      "date_modified": "2018-01-15 15:23:48",
+      "title": "Amore Criminale, la senatrice Pd Francesca Puglisi: \"Il programma deve chiudere\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Francesca Puglisi, senatrice del Pd e presidente della Commissione parlamentare di inchiesta su femminicidio e violenza di genere, contro “Amore Criminale”. Il programma di RaiTre andrebbe chiuso perché, si legge in un post pubblicato su Facebook proprio da Puglisi, “romanzare CRIMINI EFFERATI COME IL FEMMINICIDIO DI QUESTA SERA, contribuisce a rafforzare insani propositi emulativi di …",
+      "tags": null,
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/15/amore-criminale-la-senatrice-pd-francesca-puglisi-il-programma-deve-chiudere/4093947/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Cascavel47",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:13",
+      "timestamp_published": "1516025624",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16115",
+      "date_published": "2018-01-15 15:13:28",
+      "date_added": "2018-01-15 15:23:28",
+      "date_modified": "2018-01-15 15:23:30",
+      "title": "\"Giù le mani da Orietta Berti\". Luigi Di Maio difende la cantante dall'esposto Pd",
+      "source": "www.huffingtonpost.it",
+      "description": "Il candidato premier M5s lo scrive in un post su Fb",
+      "tags": null,
+      "image": "",
+      "url": "http://www.huffingtonpost.it/2018/01/13/giu-le-mani-da-orietta-berti-luigi-di-maio-difende-la-cantante-dallesposto-pd_a_23332491/",
+      "popularity": "55.5",
+      "tw_favorites": "0",
+      "tw_retweets": "37",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "raffaelespedic1",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:13",
+      "timestamp_published": "1516025608",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ]
+    },
+    {
+      "id": "16087",
+      "date_published": "2018-01-15 15:11:24",
+      "date_added": "2018-01-15 15:23:23",
+      "date_modified": "2018-01-15 15:23:25",
+      "title": "Mistero a Perugia, le Ninfee della fontana Maggiore diventano gialle - Cultura - L'Unione Sarda.it",
+      "source": "www.unionesarda.it",
+      "description": "Cultura - Approfondisci su L'Unione Sarda.it",
+      "tags": null,
+      "image": "",
+      "url": "http://www.unionesarda.it/articolo/cultura/2018/01/15/mistero_a_perugia_le_ninfee_della_fontana_maggiore_diventano_gial-8-686776.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "umbriatweets",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:11",
+      "timestamp_published": "1516025484",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "16283",
+      "date_published": "2018-01-15 15:10:38",
+      "date_added": "2018-01-15 15:24:05",
+      "date_modified": "2018-01-15 15:24:07",
+      "title": "Candidatura a Bologna, botta e risposta fra Salvini e Casini  - il Resto del Carlino",
+      "source": "www.ilrestodelcarlino.it",
+      "description": "Il segretario della Lega: “Casini col Pd? Mi verrebbe voglia di candidarmi lì“. La replica: \"Idea meravigliosa, noi bolognesi ci divertiremo“",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilrestodelcarlino.it/bologna/politica/salvini-casini-1.3664143",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Carlino_Bologna",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:10",
+      "timestamp_published": "1516025438",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "16236",
+      "date_published": "2018-01-15 15:10:21",
+      "date_added": "2018-01-15 15:23:48",
+      "date_modified": "2018-01-15 15:23:49",
+      "title": "Così Lorenzin fa sparire la pubblicità scomoda (ma vera) –",
+      "source": "blog.ilgiornale.it",
+      "description": "I due cartelloni pubblicitari che vedete qui sotto sono comparsi a Bari i primi giorni dell’anno. Il primo avverte che i vaccini, talvolta, provocano effetti collaterali più o meno gravi",
+      "tags": null,
+      "image": "",
+      "url": "http://blog.ilgiornale.it/locati/2018/01/15/cosi-lorenzin-fa-sparire-la-pubblicita-scomoda-ma-vera/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "CLiVaToscana",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:10",
+      "timestamp_published": "1516025421",
+      "collections": [
+        {
+          "id": "11",
+          "name": "Sanità",
+          "slug": "sanita"
+        }
+      ]
+    },
+    {
+      "id": "16217",
+      "date_published": "2018-01-15 15:10:16",
+      "date_added": "2018-01-15 15:23:43",
+      "date_modified": "2018-01-15 15:23:44",
+      "title": "Firmato protocollo intesa tra GdF e ispettorato nazionale lavoro - VeronaOggi.IT",
+      "source": "www.veronaoggi.it",
+      "description": "Il quotidiano on line della città di Verona e provincia.",
+      "tags": null,
+      "image": "",
+      "url": "http://www.veronaoggi.it/attualita/8583-firmato-protocollo-intesa-tra-gdf-e-ispettorato-nazionale-lavoro.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "verona",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:10",
+      "timestamp_published": "1516025416",
+      "collections": [
+        {
+          "id": "13",
+          "name": "Lavoro",
+          "slug": "lavoro"
+        }
+      ]
+    },
+    {
+      "id": "16177",
+      "date_published": "2018-01-15 15:09:59",
+      "date_added": "2018-01-15 15:23:37",
+      "date_modified": "2018-01-15 15:23:39",
+      "title": "La frase choc di Fontana: “Non aprire a tutti gli immigrati o la razza bianca è a rischio”",
+      "source": "www.lastampa.it",
+      "description": "L’Italia non può «accettare tutti» gli immigrati. Lo ha detto il candidato presidente della Regione Lombardia per il centrodestra, Attilio Fontana, parlando ieri a Radio Padania.«Qui non è questione di essere xenofobi o razzisti, ma è questione di essere logici o razionali». «Non possiamo - ha sostenuto l’ex sindaco di Varese - perché tutti non ci stiamo, quindi dobbiamo fare delle scelte. Dobbiamo decidere se la nostra etnia, se la nostra razza bianca, se la nostra società deve continuare a esistere o se deve essere cancellata».",
+      "tags": null,
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/15/multimedia/italia/politica/la-frase-choc-di-fontana-non-aprire-a-tutti-gli-immigrati-o-la-razza-bianca-a-rischio-nHDPsDo3mrB9CHhMaZCwRK/pagina.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "msaltalamacchia",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:09",
+      "timestamp_published": "1516025399",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "16198",
+      "date_published": "2018-01-15 15:09:16",
+      "date_added": "2018-01-15 15:23:39",
+      "date_modified": "2018-01-15 15:23:40",
+      "title": "Quel portavoce del sindaco Pd super pagato senza aver titolo",
+      "source": "www.ilgiornale.it",
+      "description": "Il sindaco di Padova, il Pd Sergio Giordani, assume un uomo di sua fiducia. Il compenso? Ben 93mila euro l&#039;anno. Eppure non ha competenze",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/portavoce-sindaco-pd-super-pagato-senza-aver-titolo-1483101.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "miluna",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:09",
+      "timestamp_published": "1516025356",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16178",
+      "date_published": "2018-01-15 15:09:15",
+      "date_added": "2018-01-15 15:23:38",
+      "date_modified": "2018-01-15 15:23:39",
+      "title": "Berlusconi, in vendita il suo vecchio Range Rover con finiture stile Rolls: ecco quanto costa",
+      "source": "www.leggo.it",
+      "description": "Un lussuoso Range Rover grigio appartenuto a Silvio Berlusconi, è in vendita a Montecatini terme (Pistoia). Ne danno notizia le cronache locali. L'auto, del 1988 con 127.000 km e...",
+      "tags": null,
+      "image": "",
+      "url": "https://www.leggo.it/politica/berlusconi/berlusconi_range_rover_vendita_14_gennaio_2018-3483614.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "69conigli",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:09",
+      "timestamp_published": "1516025355",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "16158",
+      "date_published": "2018-01-15 15:09:13",
+      "date_added": "2018-01-15 15:23:35",
+      "date_modified": "2018-01-15 15:23:37",
+      "title": "M5S, capogruppo a Roma Ferrara pubblica video di una tessera Pd bruciata. Poi si scusa",
+      "source": "www.ilmessaggero.it",
+      "description": "Il capogruppo del Movimento 5 stelle in Campidoglio Paolo Ferrara ha pubblicato un video (poirimosso) nel quale si vede qualcuno che cerca di dare fuoco a una tessera del Partito democratico.\r\n\r\nIl...",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilmessaggero.it/roma/campidoglio/m5s_capogruppo_roma_ferrara_pubblica_video_tessera_pd_bruciata_scuse-3485401.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "ilmessaggeroit",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:09",
+      "timestamp_published": "1516025353",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        },
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16062",
+      "date_published": "2018-01-15 15:09:05",
+      "date_added": "2018-01-15 15:23:20",
+      "date_modified": "2018-01-15 15:23:25",
+      "title": "Boldrini-Grasso, la lite a sinistra continua: «Nel Pd non si discute, noi invece...» - Secolo d'Italia",
+      "source": "www.secoloditalia.it",
+      "description": "Boldrini-Grasso, la lite a sinistra continua, anche se in apparenza tra i due leader è in atto il tentativo di calmare gli animi in vista delle elezioni",
+      "tags": null,
+      "image": "",
+      "url": "http://www.secoloditalia.it/2018/01/boldrini-grasso-la-lite-a-sinistra-continua-nel-pd-non-si-discute-noi-invece/?utm_source=dlvr.it&utm_medium=facebook",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "farro50farro",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:09",
+      "timestamp_published": "1516025345",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        },
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16225",
+      "date_published": "2018-01-15 15:08:40",
+      "date_added": "2018-01-15 15:23:44",
+      "date_modified": "2018-01-15 15:23:58",
+      "title": "Migranti, Fontana: non aprire a tutti o 'razza bianca' a rischio",
+      "source": "tg.la7.it",
+      "description": "In suo aiuto Salvini: siamo sotto attacco,  una volta al governo normeremo ogni presenza islamica in Italia. Gori (Pd): Fontana parla di forconi e razza bianca, noi di lavoro ed Europa",
+      "tags": null,
+      "image": "",
+      "url": "http://tg.la7.it/politica/migranti-fontana-non-aprire-a-tutti-o-razza-bianca-a-rischio-15-01-2018-123733",
+      "popularity": "6",
+      "tw_favorites": "3",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "TgLa7",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:08",
+      "timestamp_published": "1516025320",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "16167",
+      "date_published": "2018-01-15 15:08:33",
+      "date_added": "2018-01-15 15:23:36",
+      "date_modified": "2018-01-15 15:23:38",
+      "title": "Così il governo Renzi ha dato il via libera alla grande invasione - IlGiornale.it",
+      "source": "m.ilgiornale.it",
+      "description": "Così il governo Renzi ha dato il via libera alla grande invasione",
+      "tags": null,
+      "image": "",
+      "url": "http://m.ilgiornale.it/news/2017/07/06/cosi-il-governo-renzi-ha-dato-il-via-libera-alla-grande-invasione/1416870/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "lciucciovino",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:08",
+      "timestamp_published": "1516025313",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16102",
+      "date_published": "2018-01-15 15:07:53",
+      "date_added": "2018-01-15 15:23:25",
+      "date_modified": "2018-01-15 15:23:26",
+      "title": "A Perugia si paga in bitcoin - Economia",
+      "source": "www.ansa.it",
+      "description": "Sei attivita' accettano la criptovaluta. Ecco come funziona (ANSA)",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ansa.it/sito/videogallery/economia/2018/01/15/a-perugia-si-paga-in-bitcoin_28c5c324-9bcc-4257-a5ff-b65046843fce.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "tepare",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:07",
+      "timestamp_published": "1516025273",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "15996",
+      "date_published": "2018-01-15 15:07:31",
+      "date_added": "2018-01-15 15:23:09",
+      "date_modified": "2018-01-15 15:23:11",
+      "title": "Antimafia, il procuratore Grasso: \"Berlusconi e il suo governo da premio\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "“Darei un premio speciale a Silvio Berlusconi e al suo governo per la lotta alla mafia”. A dirlo il procuratore nazionale antimafia Pietro Grasso intervistato alla Zanzara, il programma di Radio 24. Grasso spiega che il governo di centrodestra ha “introdotto delle leggi che ci hanno consentito di sequestrare in tre anni moltissimi beni ai …",
+      "tags": null,
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2012/05/12/grasso-premio-speciale-berlusconi-lotta-alla-mafia/227796/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Rinascimentorom",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:07",
+      "timestamp_published": "1516025251",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        },
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16016",
+      "date_published": "2018-01-15 15:07:31",
+      "date_added": "2018-01-15 15:23:12",
+      "date_modified": "2018-01-15 15:23:12",
+      "title": "Migranti, \"Razza bianca a rischio\": bufera su Fontana / VIDEO - Il Giorno",
+      "source": "www.ilgiorno.it",
+      "description": "Polemica dopo l'intervista a Radio Padania: \"Non possiamo accettare tutti\". Gori: \"No isterismi e demagogia\"",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiorno.it/milano/politica/fontana-1.3663967",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "SalaProveMake",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:07",
+      "timestamp_published": "1516025251",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "15997",
+      "date_published": "2018-01-15 15:07:00",
+      "date_added": "2018-01-15 15:23:09",
+      "date_modified": "2018-01-15 15:23:10",
+      "title": "Accadde oggi | 15 gennaio : Martin Luther King",
+      "source": "www.accaddeoggi.it",
+      "description": "Accadde Oggi è il primo sito italiano dedicato ai fatti del giorno nella storia: almanacco, informazioni, eventi e compleanni da ricordare, un'ampia raccolta di eventi completata dai santi del giorno, fasi lunari e proverbi - www.accaddeoggi.it",
+      "tags": null,
+      "image": "",
+      "url": "http://www.accaddeoggi.it/?p=16289",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "mimmamazz1",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:07",
+      "timestamp_published": "1516025220",
+      "collections": [
+        {
+          "id": "13",
+          "name": "Lavoro",
+          "slug": "lavoro"
+        }
+      ]
+    },
+    {
+      "id": "15984",
+      "date_published": "2018-01-15 15:06:21",
+      "date_added": "2018-01-15 15:23:05",
+      "date_modified": "2018-01-15 15:23:07",
+      "title": "Scuola Pascoli, domani si decide per la ritinteggiatura",
+      "source": "www.messinaoggi.it",
+      "description": "Non si vede proprio la luce in fondo al tunnel che dovrebbe portare alla riapertura",
+      "tags": null,
+      "image": "",
+      "url": "http://www.messinaoggi.it/website/2018/01/15/scuola-pascoli-domani-si-decide-per-la-ritinteggiatura/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "messina_oggi",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:06",
+      "timestamp_published": "1516025181",
+      "collections": [
+        {
+          "id": "12",
+          "name": "Scuola",
+          "slug": "scuola"
+        }
+      ]
+    },
+    {
+      "id": "16060",
+      "date_published": "2018-01-15 15:05:40",
+      "date_added": "2018-01-15 15:23:20",
+      "date_modified": "2018-01-15 15:23:21",
+      "title": "Iscrizioni a scuola 2018, ecco come fare (si parte domani)",
+      "source": "www.corriere.it",
+      "description": "Il via, domani, alle iscrizioni. Ma non c'è fretta: la domanda si può compilare fino al 6 febbraio",
+      "tags": null,
+      "image": "",
+      "url": "http://www.corriere.it/scuola/medie/cards/iscrizioni-scuola-2018-domani-16-gennaio-via-ecco-come-fare/da-domani-via-iscrizioni-scuola_principale.shtml?cmpid=tbd_e6ff6254BE",
+      "popularity": "10.5",
+      "tw_favorites": "0",
+      "tw_retweets": "7",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "effi365",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:05",
+      "timestamp_published": "1516025140",
+      "collections": [
+        {
+          "id": "12",
+          "name": "Scuola",
+          "slug": "scuola"
+        }
+      ]
+    },
+    {
+      "id": "16109",
+      "date_published": "2018-01-15 15:05:30",
+      "date_added": "2018-01-15 15:23:27",
+      "date_modified": "2018-01-15 15:23:28",
+      "title": "Elena Miroglio, regina della moda curvy in equilibrio tra tradizione e innovazione",
+      "source": "www.repubblica.it",
+      "description": "Donne impresa 75.Quarta generazione di imprenditori nel settore del tessile, 47 anni, è vicepresidente dell'azienda fondata dalla sua famiglia nel secondo dopoguerra, che oggi vanta un fatturato da oltre 620 milioni di euro e negozi in tutto il mondo. \"Perché non vestiamo gli uomini? Abbiamo sempre pensato di più alle donne\"",
+      "tags": null,
+      "image": "",
+      "url": "http://www.repubblica.it/economia/2018/01/13/news/donne_impresa_elena_miroglio-186413633/?ref=twhr&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "7.5",
+      "tw_favorites": "0",
+      "tw_retweets": "5",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "CloseToMedia",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:05",
+      "timestamp_published": "1516025130",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "16025",
+      "date_published": "2018-01-15 15:05:09",
+      "date_added": "2018-01-15 15:23:14",
+      "date_modified": "2018-01-15 15:23:16",
+      "title": "Elezioni 2018, Grasso: «Non ce l’ho con  Renzi, ma con la sua politica alla Berlusconi»",
+      "source": "www.corriere.it",
+      "description": "Nel mirino Jobs Act e Buona Scuola   I fondi  non versati? «Squallido lato della  campagna elettorale»",
+      "tags": null,
+      "image": "",
+      "url": "http://www.corriere.it/politica/18_gennaio_15/elezioni-2018-grasso-non-chiedo-passi-indietro-renzi-ma-sue-politiche-sono-quelle-berlusconi-0726be5e-f9cd-11e7-b7a0-515b75eef21a.shtml?cmpid=tbd_4e0f0a74Gk",
+      "popularity": "12",
+      "tw_favorites": "0",
+      "tw_retweets": "8",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "amfdistefano",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:05",
+      "timestamp_published": "1516025109",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        },
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        },
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "15932",
+      "date_published": "2018-01-15 15:03:55",
+      "date_added": "2018-01-15 15:22:52",
+      "date_modified": "2018-01-15 15:22:53",
+      "title": "“Inaffidabili\" ma forse no. Il senso di Grasso per il M5s",
+      "source": "www.ilfoglio.it",
+      "description": "Il leader di Liberi e uguali spiega che è difficile dialogare con i grillini “cambiano idee in funzione di un algoritmo”. Però non chiude ad un'alleanza post elettorale",
+      "tags": null,
+      "image": "",
+      "url": "https://www.ilfoglio.it/politica/2018/01/15/news/inaffidabili-ma-forse-no-il-senso-di-grasso-per-il-m5s-173074/#.Wly0yH4xD4o.twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "GloBackita",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:03",
+      "timestamp_published": "1516025035",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ]
+    },
+    {
+      "id": "15986",
+      "date_published": "2018-01-15 15:03:38",
+      "date_added": "2018-01-15 15:23:06",
+      "date_modified": "2018-01-15 15:23:07",
+      "title": "Blog | Tunisia, dove una jacuzzi in camera può affossare l'economia - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "[English version] Un albergo nel cuore di Hammamet ha cinque stelle e una spiaggia privata, una piscina esterna, una piscina interna, un campo da tennis, la sauna (ovviamente) l’hammam e la palestra, ha un ristorante, un caffè, il bar con il biliardo e il whisky e le freccette, un parco, e nel parco, un’area attrezzata …",
+      "tags": null,
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/15/tunisia-dove-una-jacuzzi-in-camera-puo-affossare-leconomia/4093216/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Cascavel47",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:03",
+      "timestamp_published": "1516025018",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "15910",
+      "date_published": "2018-01-15 15:03:02",
+      "date_added": "2018-01-15 15:22:49",
+      "date_modified": "2018-01-15 15:22:50",
+      "title": "Renzi: sfidiamo ferneticazione e paura",
+      "source": "www.ilmessaggero.it",
+      "description": "In Lombardia «ci aspettavamo un dibattito alto, bello, nobile, sui contenuti. E invece il candidato della destra, leghista, parla di \"razza bianca\" e di invasioni. Noi insieme a...",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilmessaggero.it/primopiano/politica/renzi_sfidiamo_ferneticazione_paura_lombardia_lega-3485408.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "ilmessaggeroit",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:03",
+      "timestamp_published": "1516024982",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16045",
+      "date_published": "2018-01-15 15:03:00",
+      "date_added": "2018-01-15 15:23:18",
+      "date_modified": "2018-01-15 15:23:20",
+      "title": "Renzi e Calenda a Milano con Gori e Sala: “Noi vogliamo la rottamazione, gli altri la restaurazione”",
+      "source": "www.lastampa.it",
+      "description": "Il segretario del Pd a Milano per sostenere la candidatura del sindaco di Bergamo, Giorgio Gori, alla candidatura alla regione Lombardia",
+      "tags": null,
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/14/italia/politica/renzi-e-calenda-a-milano-con-gori-e-sala-ms-lincomopetenza-elevata-a-elemento-di-orgoglio-nZsrkGBWX2uXWM26vYk0qN/pagina.html?utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "42",
+      "tw_favorites": "0",
+      "tw_retweets": "28",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "astartstar",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:03",
+      "timestamp_published": "1516024980",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "15943",
+      "date_published": "2018-01-15 15:02:16",
+      "date_added": "2018-01-15 15:22:54",
+      "date_modified": "2018-01-15 15:23:20",
+      "title": "La ministra Fedeli a Sassari inaugura il 456° anno accademico",
+      "source": "video.lanuovasardegna.it",
+      "description": "SASSARI. La ministra della Pubblica Istruzione Valeria Fedeli partecipa all'inaugurazione del 456esimo anno accademico dell'ateneo sassarese....",
+      "tags": null,
+      "image": "",
+      "url": "https://video.lanuovasardegna.it/locale/la-ministra-fedeli-a-sassari-inaugura-il-456-anno-accademico/87494/87928",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "lanuovasardegna",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:02",
+      "timestamp_published": "1516024936",
+      "collections": [
+        {
+          "id": "12",
+          "name": "Scuola",
+          "slug": "scuola"
+        }
+      ]
+    },
+    {
+      "id": "16204",
+      "date_published": "2018-01-15 15:01:43",
+      "date_added": "2018-01-15 15:23:40",
+      "date_modified": "2018-01-15 15:23:41",
+      "title": "Torino da bere, per Vanity Fair è la nuova Milano",
+      "source": "torino.corriere.it",
+      "description": "Negli ultimi 5 anni, sotto la Mole sono aumentati del 13% bar e ristoranti. Su 27 mila imprese del commercio quasi ottomila si occupano di cucina e cocktail colorati. Tra i quartieri di San Salvario, Vanchiglia, il centro storico e il Quadrilatero Romano",
+      "tags": null,
+      "image": "",
+      "url": "http://torino.corriere.it/economia/18_gennaio_15/torino-bere-vanity-fair-nuova-milano-5a36f8a4-f9da-11e7-b7a0-515b75eef21a.shtml",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "robertoanino",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:01",
+      "timestamp_published": "1516024903",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "16007",
+      "date_published": "2018-01-15 15:01:19",
+      "date_added": "2018-01-15 15:23:11",
+      "date_modified": "2018-01-15 15:23:28",
+      "title": "Fototrappole in azione, cinque i sanzionati per comportamento scorretto   ",
+      "source": "www.bastiaoggi.it",
+      "description": "Fototrappole in azione, cinque i sanzionati per comportamento scorretto  C’ERA PURE CHI PORTAVA I RIFIUTI DAL VICINO PUR PAGANDO TARI E AVENDO MASTELLI",
+      "tags": null,
+      "image": "",
+      "url": "http://www.bastiaoggi.it/economia/ambiente/fototrappole-in-azione-cinque-i-sanzionati-per-comportamento-scorretto-32341/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "BastiaOggi",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:01",
+      "timestamp_published": "1516024879",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "15925",
+      "date_published": "2018-01-15 15:01:07",
+      "date_added": "2018-01-15 15:22:51",
+      "date_modified": "2018-01-15 15:22:53",
+      "title": "Padoan: 'Crescita 2018 accelera se condizioni politiche.  M5S incompetenti, pericolo per stabilità' - Politica",
+      "source": "www.ansa.it",
+      "description": "\"Sfida tra chi vuole smantellare e chi andare avanti\"\r\n\r\n(ANSA)",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ansa.it/sito/notizie/cronaca/2018/01/14/padoan-m5s-incompetenti-pericolo-per-stabilita_6be1b423-ccd4-4402-ace8-07983a735d60.html",
+      "popularity": "142.5",
+      "tw_favorites": "0",
+      "tw_retweets": "95",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "fraioli1948",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:01",
+      "timestamp_published": "1516024867",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "15884",
+      "date_published": "2018-01-15 15:01:00",
+      "date_added": "2018-01-15 15:22:39",
+      "date_modified": "2018-01-15 15:24:00",
+      "title": "Prestipino (Pd): \"Sostegno alle mamme per continuare la razza italiana\"",
+      "source": "www.repubblica.it",
+      "description": "\"Siamo un Paese che rischia tra qualche decennio l'estinzione\". Il segretario di Sinistra Italiana Fratoianni: \"Il caldo evidentemente fa",
+      "tags": null,
+      "image": "",
+      "url": "http://www.repubblica.it/politica/2017/07/25/news/prestipino_pd_sostegno_a_mamme_per_continuare_razza_italiana-171600418/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "figliodeifiori",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:01",
+      "timestamp_published": "1516024860",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "16012",
+      "date_published": "2018-01-15 15:00:42",
+      "date_added": "2018-01-15 15:23:11",
+      "date_modified": "2018-01-15 15:23:12",
+      "title": "Salvini chiude la porta a Lupi e Tosi. «No a chi ha sostenuto la sinistra» (video) - Secolo d'Italia",
+      "source": "www.secoloditalia.it",
+      "description": "Matteo guarda avanti, al suo centrodestra. «Ancora non abbiamo deciso quando vederci. Oggi è lunedì, contiamo di farlo entro la settimana»",
+      "tags": null,
+      "image": "",
+      "url": "http://www.secoloditalia.it/2018/01/salvini-lupi-e-tosi-non-vogliamo-chi-ha-sostenuto-la-sinistra-video/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "farro50farro",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:00",
+      "timestamp_published": "1516024842",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "15949",
+      "date_published": "2018-01-15 15:00:32",
+      "date_added": "2018-01-15 15:22:56",
+      "date_modified": "2018-01-15 15:22:57",
+      "title": "Tasse, in 6 anni ben 611 miliardi di evasione | Metro News",
+      "source": "www.metronews.it",
+      "description": "Tocca i 108 miliardi di euro l'anno il totale dell'evasione fiscale in Italia. Alle casse dello Stato vengono sottratti ogni 12 mesi, in media, 97 miliardi di tasse e quasi 11 miliardi di contributi previdenziali per un totale di 107 miliardi e 701 milioni. Negli ultimi sei anni di crisi, dal 20...",
+      "tags": null,
+      "image": "",
+      "url": "http://www.metronews.it/18/01/13/tasse-6-anni-ben-611-miliardi-di-evasione.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "MetroNewsItalia",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 15:00",
+      "timestamp_published": "1516024832",
+      "collections": [
+        {
+          "id": "8",
+          "name": "Tasse",
+          "slug": "tasse"
+        }
+      ]
+    },
+    {
+      "id": "15940",
+      "date_published": "2018-01-15 14:59:51",
+      "date_added": "2018-01-15 15:22:54",
+      "date_modified": "2018-01-15 15:22:54",
+      "title": "C'è un omicida nel centro migranti. La Lega al Questore: \"Fare chiarezza\"",
+      "source": "www.ilgiornale.it",
+      "description": "Tra i migranti ospitati a Esino Lario (Lecco) c&#039;è anche un assassino del Gambia. Il sindaco: &quot;Non ne sapevo nulla&quot;. La Lega attacca la Questura",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/cronache/c-omicida-nel-centro-migranti-lega-questore-fare-chiarezza-1483173.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "distretto74",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:59",
+      "timestamp_published": "1516024791",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "15904",
+      "date_published": "2018-01-15 14:58:08",
+      "date_added": "2018-01-15 15:22:47",
+      "date_modified": "2018-01-15 15:23:12",
+      "title": "Asse Agnelli-Cairo contro Lotito. Lega di A, a.d. un avvocato spagnolo?",
+      "source": "www.repubblica.it",
+      "description": "L'alleanza Juventus-Torino ha fermato la corsa di Claudio Lotito. Il presidente del Torino porterà in Lega di A il nome di un candiato consigliato",
+      "tags": null,
+      "image": "",
+      "url": "http://www.repubblica.it/sport/calcio/2018/01/15/news/lotito_figc_lega-186539372/?ref=twhr&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "6",
+      "tw_favorites": "3",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "repubblica",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:58",
+      "timestamp_published": "1516024688",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "15845",
+      "date_published": "2018-01-15 14:57:42",
+      "date_added": "2018-01-15 15:22:30",
+      "date_modified": "2018-01-15 15:22:30",
+      "title": "\"Sei italiana? Allora canta l'inno. Forza Nuova attacca una rom",
+      "source": "www.ilgiornale.it",
+      "description": "Lite durante un incontro nel Napoletano. Forza Nuova si presenta all&#039;incontro sul campo rom di Varcaturo",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/cronache/sei-italiana-allora-canta-linno-forza-nuova-attacca-rom-1483182.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "distretto74",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:57",
+      "timestamp_published": "1516024662",
+      "collections": [
+        {
+          "id": "1",
+          "name": "Destra",
+          "slug": "destra"
+        }
+      ]
+    },
+    {
+      "id": "15883",
+      "date_published": "2018-01-15 14:55:29",
+      "date_added": "2018-01-15 15:22:39",
+      "date_modified": "2018-01-15 15:23:04",
+      "title": "Bank of America: \"Il vero pericolo è il clima, serviranno 70mila miliardi di investimenti\"",
+      "source": "www.repubblica.it",
+      "description": "Secondo gli analisti, senza intervenire l'ambiente diventerà estremo entro la fine del secolo: soffrirà il 60% della popolazione e ci saranno costi pari al 5% del Pil",
+      "tags": null,
+      "image": "",
+      "url": "http://www.repubblica.it/economia/finanza/2018/01/14/news/climate_change_bofa_merril_lynch-186069812/",
+      "popularity": "27",
+      "tw_favorites": "0",
+      "tw_retweets": "18",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "DaniRiganelli",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:55",
+      "timestamp_published": "1516024529",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "15865",
+      "date_published": "2018-01-15 14:55:14",
+      "date_added": "2018-01-15 15:22:34",
+      "date_modified": "2018-01-15 15:22:36",
+      "title": "Senorbì, corsa ai vaccini dopo l'allarme meningite - Cronaca - L'Unione Sarda.it",
+      "source": "www.unionesarda.it",
+      "description": "Cronaca - Approfondisci su L'Unione Sarda.it",
+      "tags": null,
+      "image": "",
+      "url": "http://www.unionesarda.it/articolo/cronaca/2018/01/15/senorb_corsa_ai_vaccini_dopo_l_allarme_meningite-68-686787.html",
+      "popularity": "1",
+      "tw_favorites": "1",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "UnioneSarda",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:55",
+      "timestamp_published": "1516024514",
+      "collections": [
+        {
+          "id": "14",
+          "name": "Vaccini",
+          "slug": "vaccini"
+        }
+      ]
+    },
+    {
+      "id": "15963",
+      "date_published": "2018-01-15 14:54:30",
+      "date_added": "2018-01-15 15:22:59",
+      "date_modified": "2018-01-15 15:23:22",
+      "title": "Airbus 380, il gigante dei cieli a rischio estinzione",
+      "source": "www.corriere.it",
+      "description": "Nel 2017 la società di Tolosa ha consegnato il 4% in più rispetto al 2016, vincendo per il quinto anno la sfida con Boeing. Ma senza accordi con il principale cliente, Emirates, il 2018 potrebbe essere l’anno dell’addio al colosso da mezzo miliardo di euro",
+      "tags": null,
+      "image": "",
+      "url": "http://www.corriere.it/economia/18_gennaio_15/airbus-380-gigante-cieli-rischio-estinzione-b2b0b442-f9db-11e7-b7a0-515b75eef21a.shtml",
+      "popularity": "3",
+      "tw_favorites": "0",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Mister_Maio_X",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:54",
+      "timestamp_published": "1516024470",
+      "collections": [
+        {
+          "id": "10",
+          "name": "Economia",
+          "slug": "economia"
+        }
+      ]
+    },
+    {
+      "id": "15891",
+      "date_published": "2018-01-15 14:53:02",
+      "date_added": "2018-01-15 15:22:42",
+      "date_modified": "2018-01-15 15:22:43",
+      "title": "Scontri all’aeroporto di Tripoli: assaltato il carcere dello scalo",
+      "source": "www.ilgiornale.it",
+      "description": "Sedici feriti e nove morti. Proseguono gli scontri all&#039;interno dell&#039;edificio. Evacuati i passeggeri",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/mondo/scontri-all-aeroporto-tripoli-assaltato-carcere-dello-scalo-1483197.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "distretto74",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:53",
+      "timestamp_published": "1516024382",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ]
+    },
+    {
+      "id": "15752",
+      "date_published": "2018-01-15 14:48:13",
+      "date_added": "2018-01-15 15:22:09",
+      "date_modified": "2018-01-15 15:22:24",
+      "title": "Firenze, Oliviero Toscani a Pitti Uomo: 'Voto Emma Bonino perché gli altri hanno già perso'",
+      "source": "video.repubblica.it",
+      "description": "Si aggira fra gli stand di Pitti Uomo perché ha personalmente curato la nuova campagna del brand di abbigliamento Best Company, fotografando sua...",
+      "tags": null,
+      "image": "",
+      "url": "https://video.repubblica.it/edizione/firenze/firenze-oliviero-toscani-a-pitti-uomo-voto-emma-bonino-perche-gli-altri-hanno-gia-perso/294077/294687",
+      "popularity": "79.5",
+      "tw_favorites": "0",
+      "tw_retweets": "53",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "_ritasi",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:48",
+      "timestamp_published": "1516024093",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ]
+    },
+    {
+      "id": "15798",
+      "date_published": "2018-01-15 14:48:09",
+      "date_added": "2018-01-15 15:22:16",
+      "date_modified": "2018-01-15 15:22:17",
+      "title": "Raggi: \"Sgomberata sede Fdi-An a Roma, erano morosi dal 1972\". L'annuncio nella diretta Facebook #LaSindacaRisponde - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "“E’ stata sgomberata a via delle Terme di Traiano a Roma una sede di FdI-AN: erano morosi dal 1972″. L’annuncio di Virginia Raggi è stato fatto durante la prima diretta su Facebook dal titolo “La Sindaca Risponde”, durante la quale ha risposto alle domande degli utenti. “Si trovavano all’interno della sede comunale”, ha detto la prima …",
+      "tags": null,
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2017/10/31/raggi-sgomberata-sede-di-fdi-an-roma-erano-morosi-dal-1972-lannuncio-nella-diretta-facebook-lasindacarisponde/3948789/",
+      "popularity": "184.5",
+      "tw_favorites": "0",
+      "tw_retweets": "123",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "asaro_daniela",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:48",
+      "timestamp_published": "1516024089",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "15791",
+      "date_published": "2018-01-15 14:48:00",
+      "date_added": "2018-01-15 15:22:15",
+      "date_modified": "2018-01-15 15:22:15",
+      "title": "Torino, consigliera M5s si autosospende dopo aver usato l'auto blu per andare a prendere la figlia. Di Maio: \"Gravissimo\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "La consigliera comunale di Torino e storica attivista M5s Deborah Montalbano si è dimessa da presidente di commissione dopo le polemiche per aver usato l’auto blu per essere andata a prendere la figlia a casa. Sulla vicenda si è espresso anche il candidato premier M5s Luigi Di Maio: “E’ un fatto gravissimo, avvieremo una procedura interna al …",
+      "tags": null,
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/12/torino-consigliera-m5s-si-autosospende-dopo-aver-usato-lauto-blu-per-andare-prendere-la-figlia-di-maio-gravissimo/4088327/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Simona050777",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:48",
+      "timestamp_published": "1516024080",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ]
+    },
+    {
+      "id": "15838",
+      "date_published": "2018-01-15 14:46:48",
+      "date_added": "2018-01-15 15:22:28",
+      "date_modified": "2018-01-15 15:22:29",
+      "title": "Di Maio arriva in ritardo al comizio di Casale: salta l’incontro con i famigliari delle vittime di amianto",
+      "source": "www.lastampa.it",
+      "description": "Una delegazione dell’Afeva era stata invitata dallo staff del candidato premier dei 5 Stelle per le 17, dopo un’ora e mezza di attesa gli attivisti se ne sono andati: “Niente politica”",
+      "tags": null,
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/11/edizioni/alessandria/di-maio-arriva-in-ritardo-al-comizio-di-casale-salta-lincontro-con-i-famigliari-delle-vittime-di-amianto-KjGmYwWlii4NRAiZJkfmZM/pagina.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Simona050777",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:46",
+      "timestamp_published": "1516024008",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ]
+    },
+    {
+      "id": "14562",
+      "date_published": "2018-01-15 14:45:46",
+      "date_added": "2018-01-15 15:05:24",
+      "date_modified": "2018-01-15 15:05:25",
+      "title": "Migranti, Fontana: \"Razza bianca a rischio\". Poi precisa: \"Un lapsus\"  | Sky TG24",
+      "source": "tg24.sky.it",
+      "description": "Leggi su Sky Tg24 l’articolo Migranti, Fontana: \"Razza bianca a rischio\". Poi precisa: \"Un lapsus\"  | Sky TG24",
+      "tags": null,
+      "image": "",
+      "url": "http://tg24.sky.it/politica/2018/01/15/Fontana-migranti-non-accettare-tutti-razza-a-rischio.html?social=twitter_skytg24",
+      "popularity": "7.5",
+      "tw_favorites": "0",
+      "tw_retweets": "5",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "RealTimeNews__",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:45",
+      "timestamp_published": "1516023946",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "14560",
+      "date_published": "2018-01-15 14:45:33",
+      "date_added": "2018-01-15 15:05:20",
+      "date_modified": "2018-01-15 15:24:20",
+      "title": "'Mistero' colore statue fontana Maggiore - Umbria",
+      "source": "www.ansa.it",
+      "description": "Saranno le analisi chimico-fisiche che farà svolgere la Soprintendenza ai beni culturali dell'Umbria\r\na chiarire il 'mistero' della colorazione gialla improvvisamente assunta dalle tre statue in bronzo\r\n(una copia dell'originale) collocate al centro della va... © ANSA",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ansa.it/umbria/notizie/2018/01/15/mistero-colore-statue-fontana-maggiore_7f7730c7-4b89-4b82-bc81-005958f1fc55.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "Ansa_Umbria",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:45",
+      "timestamp_published": "1516023933",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ]
+    },
+    {
+      "id": "14453",
+      "date_published": "2018-01-15 14:43:51",
+      "date_added": "2018-01-15 15:04:23",
+      "date_modified": "2018-01-15 15:22:18",
+      "title": "Don Matteo, lezione a Boldrini: \"Capitana? Si usa solo maschile\"",
+      "source": "www.ilgiornale.it",
+      "description": "Un dialogo tra due protagonisti di Don Matteo suona un po&#039; come una lezione per Laura Boldrini e la sua crociata sulla lingua italiana",
+      "tags": null,
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/spettacoli/don-matteo-lezione-boldrini-capitana-si-usa-solo-maschile-1482678.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "screen_name": "LucaLagana",
+      "flags": "0",
+      "short_published": "Mon Jan 15th, 14:43",
+      "timestamp_published": "1516023831",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ]
+    }
+  ],
+  "message": "OK",
+  "page_size": "10000",
+  "offset": 0,
+  "total_articles": "328",
+  "total_pages": 1
+}

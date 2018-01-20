@@ -1,0 +1,3841 @@
+{
+  "error": false,
+  "properties": {
+    "base_url": "https://api.elezioni.io",
+    "theme_url": "https://api.elezioni.io/themes/e.io",
+    "my_url": "browse/?page_size=100",
+    "my_url_clean": "browse/",
+    "referer": null,
+    "time": 1516358647,
+    "UTCDateTime": "2018-01-19T10:44:07+00:00",
+    "debug": 32767
+  },
+  "page": 0,
+  "articles": [
+    {
+      "id": "131801",
+      "date_published": "2018-01-19 11:07:07",
+      "date_added": "2018-01-19 11:28:32",
+      "date_modified": "2018-01-19 11:28:33",
+      "title": "L’ex presidente del Senato Grasso in Provincia ad Asti, Cinque stelle in attesa del verdetto Parlamentarie",
+      "source": "www.lastampa.it",
+      "description": "Mentre si stanno definendo le candidature in vista delle Politiche del 4 marzo, primi appuntamenti elettorali.Domenica 21 gennaio ad Asti arriva Pietro Grasso: il presidente del Senato e candidato p",
+      "tags": [
+        "cinque stelle",
+        "asti"
+      ],
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/19/edizioni/asti/lex-presidente-del-senato-grasso-in-provincia-ad-asti-cinque-stelle-in-attesa-del-verdetto-parlamentarie-1UOz0Tx5BsUi8iqRBAQmpO/pagina.html?utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "StampaAsti",
+      "flags": "0",
+      "short_published": "19-01-2018 11:07",
+      "timestamp_published": "1516356427",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131705",
+      "date_published": "2018-01-19 11:02:45",
+      "date_added": "2018-01-19 11:27:15",
+      "date_modified": "2018-01-19 11:27:16",
+      "title": "Berlusconi, flat tax al 23%, e scenderà - Lombardia",
+      "source": "www.ansa.it",
+      "description": "\"Punto fondamentale\" del programma fiscale del centrodestra \"è quello che determina una vera\r\nrivoluzione nella fiscalità: è la flat tax, uguale per famiglie e imprese e che rimane sempre\r\nidentica qualunque siano i redditi\". © ANSA",
+      "tags": [
+        "berlusconi",
+        "centrodestra"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/lombardia/notizie/2018/01/19/berlusconi-flat-tax-al-23-e-scendera_468bedb3-12a4-40a6-87f9-9550d9d87660.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "LombardiaBT",
+      "flags": "0",
+      "short_published": "19-01-2018 11:02",
+      "timestamp_published": "1516356165",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131704",
+      "date_published": "2018-01-19 11:02:44",
+      "date_added": "2018-01-19 11:27:15",
+      "date_modified": "2018-01-19 11:28:00",
+      "title": "Cav,soddisfatto programma.Iniziato da me - Lombardia",
+      "source": "www.ansa.it",
+      "description": "\"Soddisfatto? Sì, è un programma lungamente approfondito. Ho cominciato a prepararlo io\". Lo ha\r\ndetto il leader di FI, Silvio Berlusconi, parlando a Mattino 5 del programma del centrodestra\r\nfirmato ieri sera. © ANSA",
+      "tags": [
+        "cav",
+        "silvio berlusconi",
+        "fi",
+        "centrodestra"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/lombardia/notizie/2018/01/19/cavsoddisfatto-programma.iniziato-da-me_932188b1-a815-4d73-b4ae-84291d16d36a.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "LombardiaBT",
+      "flags": "0",
+      "short_published": "19-01-2018 11:02",
+      "timestamp_published": "1516356164",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131732",
+      "date_published": "2018-01-19 11:02:13",
+      "date_added": "2018-01-19 11:27:51",
+      "date_modified": "2018-01-19 11:27:52",
+      "title": "Il M5s vuole andare a comandare col pulmino. Parcheggiato sulla fermata del bus (che non passa)",
+      "source": "www.ilfoglio.it",
+      "description": "Di Maio, Grillo e Casaleggio al Viminale per consegnare il simbolo del Movimento per le elezioni politiche. E il mezzo con cui sono arrivati è rimasto fermo per due ore senza che nessuno lo abbia multato",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfoglio.it/politica/2018/01/19/news/m5s-grillo-di-maio-simbolo-pulmino-fermata-del-bus-173850/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "gpoko",
+      "flags": "0",
+      "short_published": "19-01-2018 11:02",
+      "timestamp_published": "1516356133",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131720",
+      "date_published": "2018-01-19 11:01:43",
+      "date_added": "2018-01-19 11:27:33",
+      "date_modified": "2018-01-19 11:27:34",
+      "title": "“Caro sindaco, legga il mio curriculum. Mi candido anche io”",
+      "source": "shop.ilfattoquotidiano.it",
+      "description": "Caro Sindaco Nardella, le scrivo questa lettera di presentazione per candidarmi al ruolo, investito con nomina diretta, dalla Dott.ssa Oranges. Mi presento: mi chiamo Carolina Martelli non sono nata a Montevarchi ma a Sassetta (un paese di 600 anime in Provincia di Livorno). Dall’età di 17 anni ho sempre lavorato come cameriera per la stagione [...]",
+      "tags": [],
+      "image": "",
+      "url": "https://shop.ilfattoquotidiano.it/2018/01/19/caro-sindaco-legga-il-mio-curriculum-mi-candido-anche-io/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "AntonioePassaro",
+      "flags": "0",
+      "short_published": "19-01-2018 11:01",
+      "timestamp_published": "1516356103",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131192",
+      "date_published": "2018-01-19 10:57:51",
+      "date_added": "2018-01-19 11:15:28",
+      "date_modified": "2018-01-19 11:26:56",
+      "title": "Elezioni 2018, show di Grillo al Viminale: \"Salvini ministro? Fantascienza\" - QuotidianoNet",
+      "source": "www.quotidiano.net",
+      "description": "E chiude alle allenze: \"Come se un panda mangiasse carne cruda\". Il guru pentastellato con Di Maio per presentare il nuovo simbolo del Movimento: ma c'è un fuoriprogramma",
+      "tags": [
+        "maio",
+        "movimento"
+      ],
+      "image": "",
+      "url": "https://www.quotidiano.net/politica/elezioni-2018-1.3671042",
+      "popularity": "18",
+      "tw_favorites": "0",
+      "tw_retweets": "12",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "quotidianonet",
+      "flags": "0",
+      "short_published": "19-01-2018 10:57",
+      "timestamp_published": "1516355871",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131658",
+      "date_published": "2018-01-19 10:56:51",
+      "date_added": "2018-01-19 11:26:08",
+      "date_modified": "2018-01-19 11:26:08",
+      "title": "\"Ecco chi si nasconde dietro al Movimento Cinque Stelle\" - IlGiornale.it",
+      "source": "m.ilgiornale.it",
+      "description": "\"Ecco chi si nasconde dietro al Movimento Cinque Stelle\"",
+      "tags": [
+        "movimento",
+        "cinque stelle"
+      ],
+      "image": "",
+      "url": "http://m.ilgiornale.it/news/2015/12/21/ecco-chi-si-nasconde-dietro-al-movimento-cinque-stelle/1206626/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "MarilenaAll",
+      "flags": "0",
+      "short_published": "19-01-2018 10:56",
+      "timestamp_published": "1516355811",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131693",
+      "date_published": "2018-01-19 10:56:08",
+      "date_added": "2018-01-19 11:26:53",
+      "date_modified": "2018-01-19 11:26:54",
+      "title": "Grillo chiude alle alleanze: \"Saremmo come un panda che mangia la carne cruda\"",
+      "source": "www.ilgiornale.it",
+      "description": "Terzo restyling per il simbolo: c&#039;è scritto &quot;ilblogdellestelle.it&quot;. E Grillo prende le distanze dalla Lega: &quot;Non siamo come loro&quot;",
+      "tags": [
+        "grillo",
+        "lega"
+      ],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/grillo-chiude-alleanze-saremmo-panda-che-mangia-carne-cruda-1484764.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "AdrMontanaro",
+      "flags": "0",
+      "short_published": "19-01-2018 10:56",
+      "timestamp_published": "1516355768",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131178",
+      "date_published": "2018-01-19 10:54:33",
+      "date_added": "2018-01-19 11:15:15",
+      "date_modified": "2018-01-19 11:15:22",
+      "title": "Bimba trova refrigerio in una fontana a Melbourne - Curiosita'",
+      "source": "www.ansa.it",
+      "description": "... (ANSA)",
+      "tags": [
+        "refrigerio",
+        "melbourne"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/sito/photogallery/curiosita/2018/01/19/bimba-trova-refrigerio-in-una-fontana-a-melbourne_313bf8c1-dcc2-4d33-bb22-ca1909691d12.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "MISTERO_MISTERI",
+      "flags": "0",
+      "short_published": "19-01-2018 10:54",
+      "timestamp_published": "1516355673",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131645",
+      "date_published": "2018-01-19 10:49:50",
+      "date_added": "2018-01-19 11:25:33",
+      "date_modified": "2018-01-19 11:25:34",
+      "title": "Grillo contro Casapound: vedremo i nazisti far finta di essere normali",
+      "source": "video.leggo.it",
+      "description": "(Agenzia Vista) Roma, 19 gennaio 2018 Grillo contro Casapound vedremo i nazisti far finta di essere normali Luigi Di Maio, Beppe Grillo e Davide Casaleggio hanno depositato il simbolo del Movimento 5...",
+      "tags": [
+        "davide",
+        "casapound"
+      ],
+      "image": "",
+      "url": "http://video.leggo.it/primopiano/grillo_contro_casapound_vedremo_nazisti_far_finta_di_normali-3494124.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "leggoit",
+      "flags": "0",
+      "short_published": "19-01-2018 10:49",
+      "timestamp_published": "1516355390",
+      "collections": [
+        {
+          "id": "1",
+          "name": "Destra",
+          "slug": "destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131637",
+      "date_published": "2018-01-19 10:47:19",
+      "date_added": "2018-01-19 11:25:03",
+      "date_modified": "2018-01-19 11:25:04",
+      "title": "Berlusconi, Meloni e Salvini firmano il programma: noi d'accordo, puntiamo a vincere - Secolo d'Italia",
+      "source": "www.secoloditalia.it",
+      "description": "Silvio Berlusconi, Giorgia Meloni e Matteo Salvini trovano l'accordo e firmano il programma della colazione che verrà depositato entro domani.",
+      "tags": [],
+      "image": "",
+      "url": "http://www.secoloditalia.it/2018/01/berlusconi-meloni-e-salvini-firmano-il-programma-noi-daccordo-puntiamo-a-vincere/?utm_source=dlvr.it&utm_medium=facebook",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "farro50farro",
+      "flags": "0",
+      "short_published": "19-01-2018 10:47",
+      "timestamp_published": "1516355239",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131151",
+      "date_published": "2018-01-19 10:44:30",
+      "date_added": "2018-01-19 10:59:40",
+      "date_modified": "2018-01-19 11:24:43",
+      "title": "Fake news al bando, mossa di Minniti: «Denunce online sul sito della polizia»",
+      "source": "www.ilmessaggero.it",
+      "description": "Uno speciale bottone rosso per stanare le falsità che circolano in Rete. Una sorta di scudo governativo contro le fake news. «Nessun grande fratello», tiene a sottolineare il capo...",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilmessaggero.it/primopiano/cronaca/commissariato_on_line_contro_le_fake_news_e_servizio_pubblico-3493049.html",
+      "popularity": "2.5",
+      "tw_favorites": "1",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "ar_cavaliere",
+      "flags": "0",
+      "short_published": "19-01-2018 10:44",
+      "timestamp_published": "1516355070",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131031",
+      "date_published": "2018-01-19 10:40:47",
+      "date_added": "2018-01-19 10:58:45",
+      "date_modified": "2018-01-19 10:58:46",
+      "title": "Renzi, la passione di lusso. Nasconde regali di Stato: tutti i suoi orologi",
+      "source": "www.liberoquotidiano.it",
+      "description": "Il presidente del Consiglio Matteo Renzi si scopre grande appassionato di orologi di lusso e costosissimi. È ancora fresca la figuraccia mondiale emersa dopo la diffusione della notizia che nel palazzo reale di Ryad sia scoppiata una vera e propria rissa tra i delegati italiani in missione po...",
+      "tags": [
+        "renzi",
+        "palazzo"
+      ],
+      "image": "",
+      "url": "http://www.liberoquotidiano.it/news/politica/11866232/renzi-regali-stato-nascosti-orologi-lusso.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "MinoMinoneas",
+      "flags": "0",
+      "short_published": "19-01-2018 10:40",
+      "timestamp_published": "1516354847",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131077",
+      "date_published": "2018-01-19 10:38:21",
+      "date_added": "2018-01-19 10:59:04",
+      "date_modified": "2018-01-19 10:59:05",
+      "title": "Giulia Bongiorno: io convinta da Salvini. E Andreotti avrebbe approvato - Secolo d'Italia",
+      "source": "www.secoloditalia.it",
+      "description": "Giulia Bongiorno, in una serie di interviste, replica a chi la accusa di avere cambiato casacca e dice di restare una garantista ma amante delle regole",
+      "tags": [],
+      "image": "",
+      "url": "http://www.secoloditalia.it/2018/01/bongiorno-io-convinta-da-salvini-e-andreotti-avrebbe-approvato/?utm_source=dlvr.it&utm_medium=facebook",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "farro50farro",
+      "flags": "0",
+      "short_published": "19-01-2018 10:38",
+      "timestamp_published": "1516354701",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131058",
+      "date_published": "2018-01-19 10:38:09",
+      "date_added": "2018-01-19 10:58:57",
+      "date_modified": "2018-01-19 10:58:58",
+      "title": "M5s cambia il simbolo per le elezioni politiche: nel logo ora c’è il blog delle stelle",
+      "source": "www.fanpage.it",
+      "description": "Il Movimento 5 Stelle consegna il simbolo in vista delle elezioni politiche del 4 marzo: cambia il logo, all’interno del quale ora c’è la...",
+      "tags": [
+        "m5s",
+        "movimento 5 stelle"
+      ],
+      "image": "",
+      "url": "https://www.fanpage.it/m5s-cambia-il-simbolo-per-le-elezioni-politiche-nel-logo-ora-c-e-il-blog-delle-stelle/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "maletaIt",
+      "flags": "0",
+      "short_published": "19-01-2018 10:38",
+      "timestamp_published": "1516354689",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131010",
+      "date_published": "2018-01-19 10:36:48",
+      "date_added": "2018-01-19 10:58:24",
+      "date_modified": "2018-01-19 10:59:30",
+      "title": "Show di Grillo al Viminale: «Alleanze? Come dire a un panda di mangiare la carne»",
+      "source": "www.corriere.it",
+      "description": "E su Salvini possibile ministro dell’Interno: «Sarebbe fantascienza»",
+      "tags": [
+        "possibile",
+        "viminale"
+      ],
+      "image": "",
+      "url": "http://www.corriere.it/politica/18_gennaio_19/show-beppe-grillo-viminale-287f1584-fcf6-11e7-b1af-dcddd5d25ebd.shtml?cmpid=tbd_d00f32d9tC",
+      "popularity": "6",
+      "tw_favorites": "3",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "Corriere",
+      "flags": "0",
+      "short_published": "19-01-2018 10:36",
+      "timestamp_published": "1516354608",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130984",
+      "date_published": "2018-01-19 10:36:20",
+      "date_added": "2018-01-19 10:58:07",
+      "date_modified": "2018-01-19 11:24:17",
+      "title": "Polizia e Viminale lanciano il \"bottone rosso\" per segnalare fake news  | Sky TG24",
+      "source": "tg24.sky.it",
+      "description": "Leggi su Sky Tg24 l’articolo Polizia e Viminale lanciano il \"bottone rosso\" per segnalare fake news  | Sky TG24",
+      "tags": [],
+      "image": "",
+      "url": "http://tg24.sky.it/cronaca/2018/01/19/fake-news-bottone-rosso-polizia-postale-minniti-gabrielli.html?social=twitter_skytg24",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "PD_Mattia",
+      "flags": "0",
+      "short_published": "19-01-2018 10:36",
+      "timestamp_published": "1516354580",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        },
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130994",
+      "date_published": "2018-01-19 10:35:07",
+      "date_added": "2018-01-19 10:58:12",
+      "date_modified": "2018-01-19 10:59:36",
+      "title": "Grillo e Di Maio al Viminale, il M5S deposita il nuovo simbolo  | Sky TG24",
+      "source": "tg24.sky.it",
+      "description": "Leggi su Sky Tg24 l’articolo Grillo e Di Maio al Viminale, il M5S deposita il nuovo simbolo  | Sky TG24",
+      "tags": [
+        "m5s",
+        "viminale"
+      ],
+      "image": "",
+      "url": "http://tg24.sky.it/politica/2018/01/19/elezioni-deposito-simboli-viminale-ministero-interno.html?social=twitter_skytg24",
+      "popularity": "76.5",
+      "tw_favorites": "3",
+      "tw_retweets": "49",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "SkyTG24",
+      "flags": "0",
+      "short_published": "19-01-2018 10:35",
+      "timestamp_published": "1516354507",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "7",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "7",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131013",
+      "date_published": "2018-01-19 10:33:48",
+      "date_added": "2018-01-19 10:58:25",
+      "date_modified": "2018-01-19 10:58:26",
+      "title": "Lo Spi–Cgil dirama un'email su carta intestata: «Sosteniamo Cuperlo» | Europa Quotidiano",
+      "source": "www.europaquotidiano.it",
+      "description": "Polemiche per la lettera con cui lo Spi invita i suoi iscritti ad appoggiare il candidato triestino. Gelido Renzi: «Preferisco non commentare, è meglio». I civatiani: «Un fatto gravissimo». Ma l'interessato apprezza: «Motivo di orgoglio»",
+      "tags": [],
+      "image": "",
+      "url": "http://www.europaquotidiano.it/2013/12/03/il-sindacato-pensionati-della-cgil-dirama-unemail-agli-iscritti-sosteniamo-cuperlo/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter#79155963-tw#1516354428597",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "GMDeFrancesco",
+      "flags": "0",
+      "short_published": "19-01-2018 10:33",
+      "timestamp_published": "1516354428",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130952",
+      "date_published": "2018-01-19 10:31:18",
+      "date_added": "2018-01-19 10:57:29",
+      "date_modified": "2018-01-19 10:57:31",
+      "title": "Grillo torna in prima linea. E Di Maio consegna il nuovo simbolo - Secolo d'Italia",
+      "source": "www.secoloditalia.it",
+      "description": "Grillo torna in pista: tour con Di Maio. Dopo il vertice romano il movimento consegna il nuovo simbolo del movimento: «Saremo il primo partito»",
+      "tags": [],
+      "image": "",
+      "url": "http://www.secoloditalia.it/2018/01/grillo-torna-in-prima-linea-e-di-maio-consegna-il-nuovo-simbolo/?utm_source=dlvr.it&utm_medium=facebook",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "farro50farro",
+      "flags": "0",
+      "short_published": "19-01-2018 10:31",
+      "timestamp_published": "1516354278",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130950",
+      "date_published": "2018-01-19 10:31:10",
+      "date_added": "2018-01-19 10:57:25",
+      "date_modified": "2018-01-19 10:57:26",
+      "title": "Berlusconi e il viagra, i congiuntivi di Di Maio: Palazzo, il peggio della settimana",
+      "source": "espresso.repubblica.it",
+      "description": "E poi er moviola Gentiloni, i paesi cesso di Trump e i partiti petalosi. Anche negli ultimi sette giorni i politici non ci hanno fatto mancare le loro sparate: leggetele tutte e votate la vostra preferita",
+      "tags": [],
+      "image": "",
+      "url": "http://espresso.repubblica.it/palazzo/2018/01/18/news/berlusconi-e-il-viagra-i-congiuntivi-di-di-maio-palazzo-il-peggio-della-settimana-1.317269",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "CatelliRossella",
+      "flags": "0",
+      "short_published": "19-01-2018 10:31",
+      "timestamp_published": "1516354270",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "131139",
+      "date_published": "2018-01-19 10:19:18",
+      "date_added": "2018-01-19 10:59:33",
+      "date_modified": "2018-01-19 11:23:53",
+      "title": "Leu, il nodo a Bassolino a Roma: i veti frenano la corsa dell'ex governatore",
+      "source": "www.ilmattino.it",
+      "description": "L'unica certezza è che a Napoli, al tavolo regionale di\nLiberi e uguali, l'ipotesi di una candidatura di Antonio\nBassolino non è mai stata posta. E infatti nelle...",
+      "tags": [
+        "antonio",
+        "leu",
+        "liberi e uguali",
+        "roma"
+      ],
+      "image": "",
+      "url": "https://www.ilmattino.it/primopiano/politica/leu_nodo_bassolino-3493487.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "TutteLeNotizie",
+      "flags": "0",
+      "short_published": "19-01-2018 10:19",
+      "timestamp_published": "1516353558",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130417",
+      "date_published": "2018-01-19 10:13:23",
+      "date_added": "2018-01-19 10:28:56",
+      "date_modified": "2018-01-19 11:23:31",
+      "title": "La guerra del Viminale contro le fake news: un 'bottone rosso' per segnalarle",
+      "source": "www.repubblica.it",
+      "description": "In vista delle elezioni al via il nuovo servizio del commissariato online che permetterà ai cittadini di suggerire presunte bufale. La Polizia postale",
+      "tags": [],
+      "image": "",
+      "url": "http://www.repubblica.it/tecnologia/2018/01/18/news/la_guerra_del_viminale_contro_le_fake_news-186759070/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "marcomassarotto",
+      "flags": "0",
+      "short_published": "19-01-2018 10:13",
+      "timestamp_published": "1516353203",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130355",
+      "date_published": "2018-01-19 10:12:05",
+      "date_added": "2018-01-19 10:28:25",
+      "date_modified": "2018-01-19 11:28:44",
+      "title": "Sondaggi: il centrodestra conquista il Nord, battaglia con il M5s al Sud. Il Pd tiene solo nelle Regioni rosse - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Centrodestra che fa cappotto al Nord e se la batte al Sud con il M5s, che sfonda in Liguria e Marche. Il Pd che tiene solo nelle regioni rosse. E’ la geografia del post-voto tracciata dal sondaggio pubblicato questa mattina dal Corriere della Sera. Secondo le rilevazioni elaborate tra il 17 e il 18 gennaio dall’Istituto Ipsos …",
+      "tags": [
+        "centrodestra",
+        "m5s",
+        "pd",
+        "liguria"
+      ],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/19/sondaggi-il-centrodestra-conquista-il-nord-battaglia-con-il-m5s-al-sud-il-pd-tiene-solo-nelle-regioni-rosse/4102362/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "TutteLeNotizie",
+      "flags": "0",
+      "short_published": "19-01-2018 10:12",
+      "timestamp_published": "1516353125",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        },
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130358",
+      "date_published": "2018-01-19 10:12:05",
+      "date_added": "2018-01-19 10:28:26",
+      "date_modified": "2018-01-19 11:26:21",
+      "title": "M5s cambia simbolo. Grillo: \"Alleanze? Come dire a un panda che mangia carne. Salvini al Viminale è fantascienza\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Il Movimento 5 Stelle entra nella sua “fase adulta”. Beppe Grillo parla così ai cronisti mentre siede in macchina con Luigi Di Maio e Davide Casaleggio davanti al Viminale dove i vertici del M5S stanno presentando il simbolo del M5S. Un simbolo che cambia rispetto alle Politiche del 2013 e che testimonia anche l’’ormai imminente distacco …",
+      "tags": [
+        "dav",
+        "m5s",
+        "movimento 5 stelle"
+      ],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/19/m5s-cambia-simbolo-nel-logo-ilblogdellestelle-it-grillo-nessuna-alleanza-salvini-al-viminale-e-fantascienza/4102454/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "TutteLeNotizie",
+      "flags": "0",
+      "short_published": "19-01-2018 10:12",
+      "timestamp_published": "1516353125",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        },
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130385",
+      "date_published": "2018-01-19 10:12:05",
+      "date_added": "2018-01-19 10:28:31",
+      "date_modified": "2018-01-19 10:59:31",
+      "title": "Grillo, alleanze? Panda non mangia carne - Ultima Ora",
+      "source": "www.ansa.it",
+      "description": "Se faremo le alleanze, anche con il Pd? \"Sono domande senza senso, è come dire che un giorno un\r\npanda può mangiare carne cruda. Noi mangiamo solo cuore di bamboo\". Non esistono forze politiche\" a\r\nquesto voto, \" noi siamo l'unica forza politica nuova\". (ANSA)",
+      "tags": [
+        "grillo",
+        "pd"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/sito/notizie/topnews/2018/01/19/grillo-alleanze-panda-non-mangia-carne_dfe5bd50-dabc-4742-b817-1f6b4a589bb3.html",
+      "popularity": "2.5",
+      "tw_favorites": "1",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "ansa_it",
+      "flags": "0",
+      "short_published": "19-01-2018 10:12",
+      "timestamp_published": "1516353125",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130303",
+      "date_published": "2018-01-19 10:06:25",
+      "date_added": "2018-01-19 10:27:21",
+      "date_modified": "2018-01-19 11:23:13",
+      "title": "Il Pd, frasi su Mussolini: Sguanci non se ne va e Mdp rompe l'alleanza con i Democratici",
+      "source": "firenze.repubblica.it",
+      "description": "Le scuse del presidente del Q1 non sono bastate a placare le proteste dei bersaniani Caduto nel vuoto anche l’appello dei residenti",
+      "tags": [],
+      "image": "",
+      "url": "http://firenze.repubblica.it/cronaca/2018/01/19/news/il_pd_frasi_su_mussolini_sguanci_non_se_ne_va_e_mdp_rompe_l_alleanza_con_i_democratici-186805657/?rss",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "firenzesulweb",
+      "flags": "0",
+      "short_published": "19-01-2018 10:06",
+      "timestamp_published": "1516352785",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        },
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130279",
+      "date_published": "2018-01-19 10:06:16",
+      "date_added": "2018-01-19 10:27:15",
+      "date_modified": "2018-01-19 11:15:09",
+      "title": "Blog | 'Le mamme devono tornare a fare le mamme', così Pirozzi ha svilito decenni di lotte - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Devo dire che questa volta Sergio Pirozzi ha davvero fatto bingo. In una sola affermazione è stato capace di fare l’en plein mettendo insieme due concetti uno peggio dell’altro: il primo è il razzismo, il secondo è la misoginia. Non che le due cose non vadano spesso di pari passo, ma questa volta l’ha veramente teorizzata …",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/18/le-mamme-devono-tornare-a-fare-le-mamme-cosi-pirozzi-ha-svilito-decenni-di-lotte/4101331/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "MaxCaramazza",
+      "flags": "0",
+      "short_published": "19-01-2018 10:06",
+      "timestamp_published": "1516352776",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130313",
+      "date_published": "2018-01-19 10:03:36",
+      "date_added": "2018-01-19 10:27:25",
+      "date_modified": "2018-01-19 10:27:26",
+      "title": "Janis Joplin avrebbe 75 anni: le 10 canzoni immortali - Panorama",
+      "source": "www.panorama.it",
+      "description": "Da \"Piece of my heart\" a \"Try\", le migliori interpretazioni della grande cantante texana, nata il 19 gennaio del 1943 e morta nel 1970 a soli 27 anni",
+      "tags": [],
+      "image": "",
+      "url": "https://www.panorama.it/musica/janis-joplin-avrebbe-75-anni-le-10-canzoni-piu-belle-e-famose/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "GabryAnton",
+      "flags": "0",
+      "short_published": "19-01-2018 10:03",
+      "timestamp_published": "1516352616",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130215",
+      "date_published": "2018-01-19 10:01:17",
+      "date_added": "2018-01-19 10:26:20",
+      "date_modified": "2018-01-19 11:23:03",
+      "title": "I sostenitori di Attilio Fontana:  «Gli italiani del Nord e del Sud sono razze diverse» | VIDEO",
+      "source": "www.giornalettismo.com",
+      "description": "Piazzapulita ha intervista chi supporta il candidato presidente della Lombardia",
+      "tags": [],
+      "image": "",
+      "url": "http://www.giornalettismo.com/archives/2646457/attilio-fontana-razza-varese",
+      "popularity": "3.5",
+      "tw_favorites": "2",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "giornalettismo",
+      "flags": "0",
+      "short_published": "19-01-2018 10:01",
+      "timestamp_published": "1516352477",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "130229",
+      "date_published": "2018-01-19 09:59:52",
+      "date_added": "2018-01-19 10:26:35",
+      "date_modified": "2018-01-19 10:28:05",
+      "title": "Elezioni, Grillo: \"Alleanze con chi ci sta? Come se un panda mangiasse carne cruda\"",
+      "source": "www.repubblica.it",
+      "description": "Il fondatore dei 5 Stelle chiude alle ipotesi di accordi: \"Domande senza senso\". \"Siamo nella fase adulta del Movimento. Il nostro sarà",
+      "tags": [
+        "grillo",
+        "5 stelle",
+        "movimento"
+      ],
+      "image": "",
+      "url": "http://www.repubblica.it/politica/2018/01/19/news/m5s_grillo_alleanze-186805013/?rss&ref=twhr&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "13.5",
+      "tw_favorites": "0",
+      "tw_retweets": "9",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "mine_mineto",
+      "flags": "0",
+      "short_published": "19-01-2018 09:59",
+      "timestamp_published": "1516352392",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129702",
+      "date_published": "2018-01-19 09:43:59",
+      "date_added": "2018-01-19 09:57:49",
+      "date_modified": "2018-01-19 09:57:50",
+      "title": "La sinistra di \"Potere al Popolo\" sa essere meno sconclusionata del M5s",
+      "source": "www.ilfoglio.it",
+      "description": "La novità di questa lista sta nel suo programma sulla giustizia che contiene tre punti significativi. Difficile definirlo un voto utile, ma qualcosa di buono c'è",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfoglio.it/bordin-line/2018/01/19/news/la-sinistra-di-potere-al-popolo-sa-essere-meno-sconclusionata-del-m5s-173807/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "gianschiavon",
+      "flags": "0",
+      "short_published": "19-01-2018 09:43",
+      "timestamp_published": "1516351439",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129704",
+      "date_published": "2018-01-19 09:42:03",
+      "date_added": "2018-01-19 09:57:50",
+      "date_modified": "2018-01-19 09:57:50",
+      "title": "\"Alle elezioni vogliamo realizzare il programma della Rivoluzione d'Ottobre\"",
+      "source": "www.huffingtonpost.it",
+      "description": "Il portavoce del partito dei comunisti dei lavoratori: \"Liberi e Uguali ha distrutto la credibilità della sinistra italiana\"",
+      "tags": [],
+      "image": "",
+      "url": "http://www.huffingtonpost.it/2018/01/19/marco-ferrando-della-lista-per-una-sinistra-rivoluzionaria-vogliamo-realizzare-la-rivoluzione-dottobre_a_23337726/?utm_hp_ref=it-homepage",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "CarloBassetti",
+      "flags": "0",
+      "short_published": "19-01-2018 09:42",
+      "timestamp_published": "1516351323",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129693",
+      "date_published": "2018-01-19 09:41:55",
+      "date_added": "2018-01-19 09:57:45",
+      "date_modified": "2018-01-19 09:57:48",
+      "title": "Programma e nuovo simbolo M5S. Grillo: «Siamo nella fase adulta»",
+      "source": "www.ilsole24ore.com",
+      "description": "Nuova corsa, nuovo simbolo con il sito del Blog delle Stelle in bella vista, a sancire il ritorno nelle mani di Beppe Grillo del suo blog personale.",
+      "tags": [
+        "m5s",
+        "delle stelle"
+      ],
+      "image": "",
+      "url": "http://www.ilsole24ore.com/art/notizie/2018-01-19/programma-e-nuovo-simbolo-m5s-grillo-siamo-fase-adulta-093349.shtml?uuid=AEAaVPlD&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "24notizieItalia",
+      "flags": "0",
+      "short_published": "19-01-2018 09:41",
+      "timestamp_published": "1516351315",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129610",
+      "date_published": "2018-01-19 09:23:29",
+      "date_added": "2018-01-19 09:55:54",
+      "date_modified": "2018-01-19 11:22:32",
+      "title": "d'alema evoca il governo del presidente e i sinistrati si spaccano-boldrini attack",
+      "source": "www.dagospia.com",
+      "description": "d'alema     Andrea Carugati per la Stampa         Il «governo del presidente» evocato ieri da Massimo D' Alema nel caso- assai probabile- di stallo dopo il voto del 4 marzo agita Liberi e uguali. Nell' ala più a sinistra di Leu è calato il gelo dopo la",
+      "tags": [],
+      "image": "",
+      "url": "http://www.dagospia.com/rubrica-3/politica/mago-dalemix-spacca-sinistrati-ndash-ldquo-baffino-rdquo-evoca-165166.htm",
+      "popularity": "11",
+      "tw_favorites": "2",
+      "tw_retweets": "6",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "_DAGOSPIA_",
+      "flags": "0",
+      "short_published": "19-01-2018 09:23",
+      "timestamp_published": "1516350209",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129591",
+      "date_published": "2018-01-19 09:17:39",
+      "date_added": "2018-01-19 09:55:31",
+      "date_modified": "2018-01-19 10:23:19",
+      "title": "Alda dall’aglio - Deve 15 mila euro al Comune: capogruppo morosa, la Lega perdona fi no alle elezioni",
+      "source": "www.ilsecoloxix.it",
+      "description": "Savona - Tutto rinviato al post elezioni politiche. La Lega Nord di Savona, sul “caso” di Alda Dallaglio, il capogruppo della Lega Nord in consiglio comunale a Palazzo Sisto, nella riunione di ieri sera, ha deciso di non forzare la mano chiedendo le sue dimissioni da capogruppo, come era stato ipotizzato da qualcuno.  L’antefatto, che ha determinato l’esplosione delle tensioni all’interno del Carroccio, risale agli ultimi giorni dello scorso dicembre, quando, a seguito di una serie di controlli sulla riscos...",
+      "tags": [
+        "dallaglio",
+        "lega nord",
+        "palazzo sis"
+      ],
+      "image": "",
+      "url": "http://www.ilsecoloxix.it/p/savona/2018/01/19/ASqtN8gM-perdona_capogruppo_elezioni.shtml",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "TutteLeNotizie",
+      "flags": "0",
+      "short_published": "19-01-2018 09:17",
+      "timestamp_published": "1516349859",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129103",
+      "date_published": "2018-01-19 09:12:00",
+      "date_added": "2018-01-19 09:28:50",
+      "date_modified": "2018-01-19 10:59:22",
+      "title": "Viminale, in coda per presentare il simbolo. Grillo: saremo prima forza politica",
+      "source": "www.rainews.it",
+      "description": "\"Siamo nella fase adulta del movimento\"",
+      "tags": [],
+      "image": "",
+      "url": "http://www.rainews.it/dl/rainews/articoli/viminale-coda-simbolo-grillo-saremo-prima-forza-44b38050-9163-493e-adc5-ef9b32a7916f.html",
+      "popularity": "14",
+      "tw_favorites": "5",
+      "tw_retweets": "6",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "RaiNews",
+      "flags": "0",
+      "short_published": "19-01-2018 09:12",
+      "timestamp_published": "1516349520",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "5",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "5",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129122",
+      "date_published": "2018-01-19 09:10:35",
+      "date_added": "2018-01-19 09:29:11",
+      "date_modified": "2018-01-19 11:21:51",
+      "title": "L’ipotesi delle larghe intese divide la sinistra di Grasso",
+      "source": "www.lastampa.it",
+      "description": "D’Alema evoca un governo del presidente. Ma il leader di Liberi e uguali frena\nE Boldrini attacca: dobbiamo motivare i nostri elettori ad andare al voto",
+      "tags": [],
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/19/economia/lipotesi-delle-larghe-intese-divide-la-sinistra-di-grasso-U03qlcrtLWDJI5tHh0IjVP/premium.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "AdrMontanaro",
+      "flags": "0",
+      "short_published": "19-01-2018 09:10",
+      "timestamp_published": "1516349435",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129040",
+      "date_published": "2018-01-19 09:07:09",
+      "date_added": "2018-01-19 09:27:58",
+      "date_modified": "2018-01-19 09:27:58",
+      "title": "Renzi mostra il suo conto corrente in tv: \"Non ho paura, il saldo oggi è 15.859 euro\"",
+      "source": "gds.it",
+      "description": "ROMA. \"E' andata così, come dice De Benedetti, non ho detto niente che non avessi detto in pubblico\", dice il segretario Pd Matteo Renzi, ospite ieri sera a ...",
+      "tags": [
+        "renzi",
+        "matteo renzi",
+        "pd",
+        "roma"
+      ],
+      "image": "",
+      "url": "http://gds.it/2018/01/18/renzi-mostra-il-suo-conto-corrente-in-tv-non-ho-paura-il-saldo-oggi-e-15-859-euro_787566/#.WmGm5eBe-bQ.twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "lupichi28",
+      "flags": "0",
+      "short_published": "19-01-2018 09:07",
+      "timestamp_published": "1516349229",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128486",
+      "date_published": "2018-01-19 09:05:49",
+      "date_added": "2018-01-19 09:16:03",
+      "date_modified": "2018-01-19 11:28:50",
+      "title": "Grillo: \"Siamo nella fase adulta di M5S\"",
+      "source": "www.adnkronos.com",
+      "description": "\"Siamo nella fase adulta del movimento, ma guardateli, guardateli quanto sono belli\". Così Beppe Grillo, rivolgendosi a Davide Casaleggio e Luigi Di Maio, salendo nel van del rally tour posteggiato di fronte al Viminale, dove a breve depositeranno il simbolo del M5S per le elezioni politiche.",
+      "tags": [
+        "grillo",
+        "m5s",
+        "viminale",
+        "breve dep"
+      ],
+      "image": "",
+      "url": "http://www.adnkronos.com/fatti/politica/2018/01/19/grillo-siamo-nella-fase-adulta_xSbvpV4TX11LL4yHnRfR1N.html",
+      "popularity": "7",
+      "tw_favorites": "1",
+      "tw_retweets": "4",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "Adnkronos",
+      "flags": "0",
+      "short_published": "19-01-2018 09:05",
+      "timestamp_published": "1516349149",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "6",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "6",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129030",
+      "date_published": "2018-01-19 09:03:30",
+      "date_added": "2018-01-19 09:27:52",
+      "date_modified": "2018-01-19 09:54:05",
+      "title": "Berlusconi, Meloni e Salvini firmano il programma elettorale: ufficiale accordo nel centrodestra",
+      "source": "www.fanpage.it",
+      "description": "Silvio Berlusconi, Giorgia Meloni e Matteo Salvini hanno sottoscritto il programma elettorale ufficializzando la nascita della coalizione di centrodestra",
+      "tags": [],
+      "image": "",
+      "url": "https://www.fanpage.it/berlusconi-meloni-e-salvini-firmano-il-programma-elettorale-ufficiale-accordo-nel-centrodestra/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "maletaIt",
+      "flags": "0",
+      "short_published": "19-01-2018 09:03",
+      "timestamp_published": "1516349010",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "129003",
+      "date_published": "2018-01-19 09:02:01",
+      "date_added": "2018-01-19 09:27:22",
+      "date_modified": "2018-01-19 09:27:22",
+      "title": "Viminale: la coda per presentare il simbolo dei partiti alle elezioni - Corriere TV",
+      "source": "video.corriere.it",
+      "description": "E Grillo protesta: «In coda da ore»",
+      "tags": [],
+      "image": "",
+      "url": "http://video.corriere.it/viminale-coda-presentare-simbolo-partiti-elezioni/d1dd0afa-fce7-11e7-b1af-dcddd5d25ebd",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "MorganFirenze",
+      "flags": "0",
+      "short_published": "19-01-2018 09:02",
+      "timestamp_published": "1516348921",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128988",
+      "date_published": "2018-01-19 09:01:37",
+      "date_added": "2018-01-19 09:27:03",
+      "date_modified": "2018-01-19 11:26:39",
+      "title": "Gli epurati: \"Metodo Di Maio Esclusi i candidati scomodi\"",
+      "source": "www.ilgiornale.it",
+      "description": "Fine parlamentarie, ricorsi in vista. Il sospetto: in lizza solo «predestinati» e nullità, come per il voto sul leader",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/epurati-metodo-maio-esclusi-i-candidati-scomodi-1484654.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "AdrMontanaro",
+      "flags": "0",
+      "short_published": "19-01-2018 09:01",
+      "timestamp_published": "1516348897",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128956",
+      "date_published": "2018-01-19 08:54:48",
+      "date_added": "2018-01-19 09:26:23",
+      "date_modified": "2018-01-19 10:53:35",
+      "title": "Giulia Bongiorno: «Io con la Lega? Non sono una riciclata, anche Andreotti oggi sarebbe d'accordo»",
+      "source": "www.ilmessaggero.it",
+      "description": "Giulia Bongiorno, dall'aldilà Giulio Andreotti non starà credendo a ciò che accade: la sua avvocatessa che diventa super-candidata, ed eventualmente ministra, della Lega. Sta...",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilmessaggero.it/primopiano/politica/giulia_bongiorno_lega_non_sono_una_riciclata_anche_andreotti_oggi_sarebbe_daccordo-3493053.html",
+      "popularity": "1.5",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "ilmessaggeroit",
+      "flags": "0",
+      "short_published": "19-01-2018 08:54",
+      "timestamp_published": "1516348488",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128977",
+      "date_published": "2018-01-19 08:52:31",
+      "date_added": "2018-01-19 09:26:52",
+      "date_modified": "2018-01-19 11:22:39",
+      "title": "D'Alema: sarà governo del presidente. E ridimensiona le aperture di Grasso",
+      "source": "www.ilgiornale.it",
+      "description": "L&#039;ex premier contro il leader dem: Berlusconi più credibile di Matteo",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/dalema-sar-governo-presidente-e-ridimensiona-aperture-grasso-1484652.html",
+      "popularity": "1.5",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "51fini",
+      "flags": "0",
+      "short_published": "19-01-2018 08:52",
+      "timestamp_published": "1516348351",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128376",
+      "date_published": "2018-01-19 08:35:36",
+      "date_added": "2018-01-19 08:57:03",
+      "date_modified": "2018-01-19 08:58:26",
+      "title": "Perché Di Maio rischia grosso a candidarsi nella sua Pomigliano",
+      "source": "www.ilfoglio.it",
+      "description": "E' la terra del termovalorizzatore di Acerra e del rilancio Fiat. Dove il M5s ha sempre perso. Il feudo di FI",
+      "tags": [
+        "maio",
+        "m5s",
+        "fi",
+        "acerra"
+      ],
+      "image": "",
+      "url": "https://www.ilfoglio.it/politica/2018/01/19/news/perche-di-maio-rischia-grosso-a-candidarsi-nella-sua-pomigliano-173825/",
+      "popularity": "3",
+      "tw_favorites": "0",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "ilfoglio_it",
+      "flags": "0",
+      "short_published": "19-01-2018 08:35",
+      "timestamp_published": "1516347336",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127833",
+      "date_published": "2018-01-19 08:29:11",
+      "date_added": "2018-01-19 08:45:55",
+      "date_modified": "2018-01-19 09:27:42",
+      "title": "Annuncio di Berlusconi: \"Farò il premier se posso. All'Interno vedo Salvini\"",
+      "source": "www.ilgiornale.it",
+      "description": "Il Cav: «Io premier col via libera di Strasburgo» Ma il leghista: «Se vinco decido io \ti ministri»",
+      "tags": [
+        "berlusconi",
+        "strasburgo"
+      ],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/annuncio-berlusconi-programma-gi-pronto-allinterno-vedo-1484648.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "TutteLeNotizie",
+      "flags": "0",
+      "short_published": "19-01-2018 08:29",
+      "timestamp_published": "1516346951",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127811",
+      "date_published": "2018-01-19 08:26:31",
+      "date_added": "2018-01-19 08:45:33",
+      "date_modified": "2018-01-19 11:21:06",
+      "title": "L'sms di D'Alema al Cav.",
+      "source": "www.ilfoglio.it",
+      "description": "Sottotesto politico di un’intervista di bolle e balle dalemiane: perdere per vendicarsi, e poi contare. Il commento di Giuliano Ferrara",
+      "tags": [
+        "cav",
+        "sottotesto",
+        "un’intervista",
+        "giuliano ferrara"
+      ],
+      "image": "",
+      "url": "https://www.ilfoglio.it/politica/2018/01/18/news/dalema-berlusconi-cosa-ha-detto-davvero-173815/",
+      "popularity": "6.5",
+      "tw_favorites": "2",
+      "tw_retweets": "3",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "ilfoglio_it",
+      "flags": "0",
+      "short_published": "19-01-2018 08:26",
+      "timestamp_published": "1516346791",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128353",
+      "date_published": "2018-01-19 08:26:07",
+      "date_added": "2018-01-19 08:56:41",
+      "date_modified": "2018-01-19 11:21:05",
+      "title": "Morti sul lavoro, operaio di 19 anni ucciso da un tornio nell'azienda di famiglia - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "È morto nella notte tra mercoledì e giovedì Luca Lecci, operaio di 19 anni che era rimasto schiacciato in un tornio sotto gli occhi del padre, proprietario dell’azienda. E’ accaduto a Rovato, in provincia di Brescia, all’interno della Elettrotecnica Lg. Il giovane stando alle ricostruzioni dei carabinieri di Chiari, è rimasto incastrato con una manica …",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/18/morti-sul-lavoro-operaio-di-19-anni-ucciso-da-un-tornio-nellazienda-di-famiglia/4100419/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "fouriousandfast",
+      "flags": "0",
+      "short_published": "19-01-2018 08:26",
+      "timestamp_published": "1516346767",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "128348",
+      "date_published": "2018-01-19 08:22:12",
+      "date_added": "2018-01-19 08:56:28",
+      "date_modified": "2018-01-19 10:51:44",
+      "title": "Fra uscenti e novità ecco i nomi in corsa nel campo di Fontana",
+      "source": "www.ilgiornale.it",
+      "description": "Il 4 marzo l&#039;election day Regionali-Politiche E il centrodestra lavora alle ultime caselle",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/milano/uscenti-e-novit-ecco-i-nomi-corsa-nel-campo-fontana-1484711.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "Ale_De_Chirico",
+      "flags": "0",
+      "short_published": "19-01-2018 08:22",
+      "timestamp_published": "1516346532",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127792",
+      "date_published": "2018-01-19 08:12:41",
+      "date_added": "2018-01-19 08:29:02",
+      "date_modified": "2018-01-19 08:29:02",
+      "title": "Elezioni, \"i mercati tifano larghe intese. Vittoria M5s scenario peggiore. Ma le promesse di tutti i leader aumentano debito\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Un parlamento “sospeso“, cioè senza che nessuna coalizione riesca ad ottenere la maggioranza. E dunque alla fine un governo a larghe intese da Forza Italia al Pd. Oppure la vittoria del centrodestra. Che, però, probabilmente non riuscirebbe a governare vista l’eterogenea composizione della coalizione. L’arrivo del Movimento 5 stelle a Palazzo Chigi o di un’inedita maggioranza …",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/19/elezioni-i-mercati-tifano-larghe-intese-vittoria-m5s-scenario-peggiore-ma-le-promesse-di-tutti-i-leader-aumentano-debito/4101157/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+IlFattoQuotidiano-F",
+      "popularity": "6",
+      "tw_favorites": "3",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "fattoquotidiano",
+      "flags": "0",
+      "short_published": "19-01-2018 08:12",
+      "timestamp_published": "1516345961",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127119",
+      "date_published": "2018-01-19 07:52:06",
+      "date_added": "2018-01-19 08:15:21",
+      "date_modified": "2018-01-19 08:15:21",
+      "title": "La situazione in Siria e il moderato Berlusconi",
+      "source": "www.ilfoglio.it",
+      "description": "Turchia e americani, la Russia, Bashar el Assad, gli iraniani e Hezbollah. E poi c'è il Cav.",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfoglio.it/piccola-posta/2018/01/19/news/siria-silvio-berlusconi-173759/#.WmGVRlo8RFo.twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "mariellagiammar",
+      "flags": "0",
+      "short_published": "19-01-2018 07:52",
+      "timestamp_published": "1516344726",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127117",
+      "date_published": "2018-01-19 07:50:19",
+      "date_added": "2018-01-19 08:15:12",
+      "date_modified": "2018-01-19 11:24:10",
+      "title": "Spionaggio per le candidature Di Maio: no agli urlatori del web",
+      "source": "www.lastampa.it",
+      "description": "Una rete di delazioni messa in piedi  per tagliare i “piantagrane” La scure cade sui No Vax. I big disertano la kermesse di Pescara",
+      "tags": [
+        "maio",
+        "pescara"
+      ],
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/19/italia/politica/spionaggio-per-le-candidature-di-maio-no-agli-urlatori-del-web-et1MBADapdH68TsLfEwJQI/pagina.html",
+      "popularity": "15",
+      "tw_favorites": "9",
+      "tw_retweets": "4",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "pborghilivorno",
+      "flags": "0",
+      "short_published": "19-01-2018 07:50",
+      "timestamp_published": "1516344619",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "5",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "5",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127090",
+      "date_published": "2018-01-19 07:42:11",
+      "date_added": "2018-01-19 07:58:47",
+      "date_modified": "2018-01-19 11:22:38",
+      "title": "«M5s ambigui, Leu corteggia il Pd.  I nostri candidati? Combattenti dei territori»",
+      "source": "ilmanifesto.it",
+      "description": "«Superare il 3 per cento non è un problema». Sorriso. «La sfida vera è unire quello che il potere vuole dividere, attivare un processo di mobilitazione che faccia conoscere i…",
+      "tags": [
+        "m5s",
+        "pd"
+      ],
+      "image": "",
+      "url": "https://ilmanifesto.it/m5s-ambigui-leu-corteggia-il-pd-i-nostri-candidati-combattenti-dei-territori/",
+      "popularity": "13",
+      "tw_favorites": "4",
+      "tw_retweets": "6",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "maudel15",
+      "flags": "0",
+      "short_published": "19-01-2018 07:42",
+      "timestamp_published": "1516344131",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        },
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        },
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127086",
+      "date_published": "2018-01-19 07:41:53",
+      "date_added": "2018-01-19 07:58:40",
+      "date_modified": "2018-01-19 08:58:01",
+      "title": "Centrodestra-M5S, battaglia al Sud. Indecisi ancora su: 37,5%",
+      "source": "www.ilmessaggero.it",
+      "description": "Il conto alla rovescia verso le elezioni è iniziato. A quarantacinque giorni dalle urne, l’elemento più preoccupante è la quota di persone che, per il momento, non ha...",
+      "tags": [
+        "-",
+        "centrodestra",
+        "m5s",
+        "sud"
+      ],
+      "image": "",
+      "url": "http://www.ilmessaggero.it/primopiano/politica/centrodestra_m5s_battaglia_al_sud_indecisi_ancora_su-3492683.html",
+      "popularity": "2.5",
+      "tw_favorites": "1",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "ilmessaggeroit",
+      "flags": "0",
+      "short_published": "19-01-2018 07:41",
+      "timestamp_published": "1516344113",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127064",
+      "date_published": "2018-01-19 07:38:45",
+      "date_added": "2018-01-19 07:58:26",
+      "date_modified": "2018-01-19 07:58:26",
+      "title": "Moretti (PD): 'Cinquestelle nullatenenti si attaccano alla poltrona'",
+      "source": "www.la7.it",
+      "description": "Gli 'improvvisati' della politica preoccupano la deputata PD Alessandra Moretti nella corsa per la definizione delle liste elettorali",
+      "tags": [
+        "moretti",
+        "pd",
+        "cinquestelle"
+      ],
+      "image": "",
+      "url": "http://www.la7.it/laria-che-tira/video/moretti-pd-cinquestelle-nullatenenti-si-attaccano-alla-poltrona-17-01-2018-231690",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "italrestauri",
+      "flags": "0",
+      "short_published": "19-01-2018 07:38",
+      "timestamp_published": "1516343925",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126996",
+      "date_published": "2018-01-19 07:34:52",
+      "date_added": "2018-01-19 07:57:55",
+      "date_modified": "2018-01-19 07:57:57",
+      "title": "De Benedetti dice che il commento di Scalfari su Berlusconi ha danneggiato Repubblica - Il Post",
+      "source": "www.ilpost.it",
+      "description": "«Penso l’abbia fatto per vanità, per riconquistare la scena. Ma è stato un pugno nello stomaco per gran parte dei lettori di Repubblica, me compreso»",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilpost.it/2017/12/03/de-benedetti-scalfari-berlusconi/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "enzo_sciarra",
+      "flags": "0",
+      "short_published": "19-01-2018 07:34",
+      "timestamp_published": "1516343692",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126968",
+      "date_published": "2018-01-19 07:34:11",
+      "date_added": "2018-01-19 07:57:43",
+      "date_modified": "2018-01-19 08:54:52",
+      "title": "Elezioni: Berlusconi, Salvini e Meloni firmano programma centrodestra  | Sky TG24",
+      "source": "tg24.sky.it",
+      "description": "Leggi su Sky Tg24 l’articolo Elezioni: Berlusconi, Salvini e Meloni firmano programma centrodestra  | Sky TG24",
+      "tags": [],
+      "image": "",
+      "url": "http://tg24.sky.it/politica/2018/01/19/elezioni-berlusconi-salvini-meloni-firmano-programma-centrodestr.html?social=twitter_skytg24",
+      "popularity": "63.5",
+      "tw_favorites": "8",
+      "tw_retweets": "37",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "KappaRar",
+      "flags": "0",
+      "short_published": "19-01-2018 07:34",
+      "timestamp_published": "1516343651",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "6",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "6",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126966",
+      "date_published": "2018-01-19 07:33:56",
+      "date_added": "2018-01-19 07:57:40",
+      "date_modified": "2018-01-19 07:57:40",
+      "title": "Berlusconi e la telefonata Renzi-De Benedetti: «Preso con mani nella marmellata»",
+      "source": "www.corriere.it",
+      "description": "Il leader di FI e la diffusione dei colloqui tra l’ex premier e l’Ingegnere: «In confronto il mio conflitto di interessi fa ridere»- «Renzi mi ha detto che decreto passa»",
+      "tags": [
+        "renzi",
+        "fi"
+      ],
+      "image": "",
+      "url": "http://www.corriere.it/politica/18_gennaio_10/berlusconi-de-benedetti-preso-le-mani-marmellata-63e91b20-f633-11e7-9b06-fe054c3be5b2.shtml",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "enzo_sciarra",
+      "flags": "0",
+      "short_published": "19-01-2018 07:33",
+      "timestamp_published": "1516343636",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126986",
+      "date_published": "2018-01-19 07:31:34",
+      "date_added": "2018-01-19 07:57:50",
+      "date_modified": "2018-01-19 11:20:42",
+      "title": "Elezioni Regionali, Fontana: \"Affitti dimezzati per chi ha sempre pagato\" - Il Giorno",
+      "source": "www.ilgiorno.it",
+      "description": "Caso Aler, il candidato governatore del centrodestra: nei quartieri popolari bisogna dare segnali a chi rispetta le regole",
+      "tags": [
+        "aler",
+        "centrodestra"
+      ],
+      "image": "",
+      "url": "http://www.ilgiorno.it/milano/cronaca/regionali-attilio-fontana-1.3670746",
+      "popularity": "5",
+      "tw_favorites": "2",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "qn_giorno",
+      "flags": "0",
+      "short_published": "19-01-2018 07:31",
+      "timestamp_published": "1516343494",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126969",
+      "date_published": "2018-01-19 07:31:06",
+      "date_added": "2018-01-19 07:57:43",
+      "date_modified": "2018-01-19 09:27:08",
+      "title": "Vicenza, il secondo fallimento stagionale in Lega Pro: disposto l’esercizio provvisorio",
+      "source": "marcobellinazzo.blog.ilsole24ore.com",
+      "description": "Secondo fallimento in pochi mesi. In Serie C è il turno del Vicenza, da ieri dichiarato fallito, seconda società della terza serie a chiudere i battenti dopo il Modena. A differenza di quanto accad…",
+      "tags": [],
+      "image": "",
+      "url": "http://marcobellinazzo.blog.ilsole24ore.com/2018/01/19/vicenza-il-secondo-fallimento-stagionale-in-lega-pro-disposto-lesercizio-provvisorio/",
+      "popularity": "5",
+      "tw_favorites": "2",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "MarcoBellinazzo",
+      "flags": "0",
+      "short_published": "19-01-2018 07:31",
+      "timestamp_published": "1516343466",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126441",
+      "date_published": "2018-01-19 07:30:59",
+      "date_added": "2018-01-19 07:45:34",
+      "date_modified": "2018-01-19 07:45:35",
+      "title": "Pistoia, arrestato il sindaco Pd di Pescia: \"Ha speso oltre mezzo milione dei Comuni montani per cellulari e benzina\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Acquistava cellulari e i-Pad e faceva benzina con i soldi della delegazione toscana dell’Unione dei Comuni montani di cui è stato presidente dal 2005 al 2016. Con questa accusa è stato arrestato Oreste Giurlani, il sindaco Pd di Pescia, grosso centro in provincia di Pistoia. Giurlani, che si trova ai domiciliari, è anche vicepresidente dell’Anci della Toscana …",
+      "tags": [
+        "pd",
+        "pescia",
+        "dei"
+      ],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2017/06/01/pistoia-arrestato-il-sindaco-pd-di-pescia-ha-speso-oltre-mezzo-milione-dei-comuni-montani-per-cellulari-e-benzina/3628980/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "GFarina1893",
+      "flags": "0",
+      "short_published": "19-01-2018 07:30",
+      "timestamp_published": "1516343459",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "125844",
+      "date_published": "2018-01-19 06:46:07",
+      "date_added": "2018-01-19 07:15:41",
+      "date_modified": "2018-01-19 07:15:41",
+      "title": "Berlusconi convince i big: l’alleanza c’è, il leader no  - Pagina Nazionale - Gazzetta di Modena",
+      "source": "gazzettadimodena.gelocal.it",
+      "description": "Programma unico con Lega e Meloni.&nbsp;Firma a Palazzo Grazioli: previsto l'azzeramento della legge Fornero. Nodo premiership.&nbsp;Il Cav: «Salvini farà il ministro dell’Interno»",
+      "tags": [
+        "lega",
+        "modena"
+      ],
+      "image": "",
+      "url": "http://gazzettadimodena.gelocal.it/italia-mondo/2018/01/18/news/berlusconi-convince-i-big-l-alleanza-c-e-il-leader-no-1.16367201?fsp=2.2776",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "gazzettamodena",
+      "flags": "0",
+      "short_published": "19-01-2018 06:46",
+      "timestamp_published": "1516340767",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126378",
+      "date_published": "2018-01-19 06:44:38",
+      "date_added": "2018-01-19 07:27:24",
+      "date_modified": "2018-01-19 09:51:55",
+      "title": "A san fruttuoso e p.zza alimonda - CasaPound - antifascisti, sabato ad alta tensione: rischio scontri per la manifestazione",
+      "source": "www.ilsecoloxix.it",
+      "description": "Genova - Sabato ad alta tensione a San Fruttuoso e in piazza Alimonda per la concomitanza di manifestazioni che contrapporranno, a pochi metri di distanza, movimenti di sinistra e antifascisti da una parte e  organizzazioni di estrema destra dall’altra.  ...",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilsecoloxix.it/p/genova/2018/01/18/ASats1gM-casapound_antifascisti_manifestazione.shtml?utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "3",
+      "tw_favorites": "0",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "GenovaOnline",
+      "flags": "0",
+      "short_published": "19-01-2018 06:44",
+      "timestamp_published": "1516340678",
+      "collections": [
+        {
+          "id": "1",
+          "name": "Destra",
+          "slug": "destra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126350",
+      "date_published": "2018-01-19 06:40:41",
+      "date_added": "2018-01-19 07:27:15",
+      "date_modified": "2018-01-19 08:53:30",
+      "title": "Gentiloni alla festa del Tricolore: \"La politica non disperda i risultati raggiunti\"",
+      "source": "www.repubblica.it",
+      "description": "Appello del premier da Reggio Emilia per le celebrazioni del 221esimo anniversario della bandiera: \"Abbiamo imboccato una direzione positiva e cambiare",
+      "tags": [],
+      "image": "",
+      "url": "http://www.repubblica.it/politica/2018/01/07/news/gentiloni_anniversario_tricolore_reggio_emilia-186004112/?ref=twhr&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "22.5",
+      "tw_favorites": "0",
+      "tw_retweets": "15",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "campione_pippo",
+      "flags": "0",
+      "short_published": "19-01-2018 06:40",
+      "timestamp_published": "1516340441",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "126342",
+      "date_published": "2018-01-19 06:39:35",
+      "date_added": "2018-01-19 07:27:13",
+      "date_modified": "2018-01-19 09:51:46",
+      "title": "Da un lato gli antifascisti, dall’altro CasaPound: alla Foce sarà un sabato “difficile”",
+      "source": "m.ilsecoloxix.it",
+      "description": "Genova - Sabato prossimo, 20 gennaio, l’associazione “Genova Antifascista” ha in programma dalle 16 in piazza Alimonda una manifestazione per «rispondere alle aggressioni e alle intimidazioni fasciste: saremo in piazza per dire che le strade sono nostre e che non accettiamo di non poterle attraversare. Per dire che i covi fascisti vanno chiusi - spiega il gruppo via Facebook - La nostra risposta è nelle strade, l’antifascismo non si delega e non si strumentalizza. Genova ha sempre rifiutato l’infamia fascis...",
+      "tags": [],
+      "image": "",
+      "url": "http://m.ilsecoloxix.it/p/genova/2018/01/18/ASAix0fM-intimidazioni_antifascista_aggressioni.shtml",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "MorganteAle",
+      "flags": "0",
+      "short_published": "19-01-2018 06:39",
+      "timestamp_published": "1516340375",
+      "collections": [
+        {
+          "id": "1",
+          "name": "Destra",
+          "slug": "destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "125266",
+      "date_published": "2018-01-19 02:29:10",
+      "date_added": "2018-01-19 04:27:24",
+      "date_modified": "2018-01-19 04:55:33",
+      "title": "Allacciate le cinture",
+      "source": "www.lastampa.it",
+      "description": "Giulia Bongiorno, bravissimo avvocato, si candida con la Lega perché è stata «colpita dal pensiero di Salvini» (speriamo non si sia fatta male). Prima battaglia: i vaccini. Anche lei è perplessa per i",
+      "tags": [
+        "salvini",
+        "lega"
+      ],
+      "image": "",
+      "url": "http://www.lastampa.it/2018/01/19/cultura/opinioni/buongiorno/allacciate-le-cinture-vtAFegGITMdknDr4BDfK3O/premium.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "il_buongiorno",
+      "flags": "0",
+      "short_published": "19-01-2018 02:29",
+      "timestamp_published": "1516325350",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "124162",
+      "date_published": "2018-01-19 00:59:04",
+      "date_added": "2018-01-19 01:28:19",
+      "date_modified": "2018-01-19 01:57:24",
+      "title": "In vendita Range Rover 3.5 4 porte 1988 di Silvio Berlusconi - Attualità",
+      "source": "www.ansa.it",
+      "description": "(ANSA)",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ansa.it/canale_motori/notizie/attualita/2018/01/15/in-vendita-range-rover-3.5-4-porte-1988-di-silvio-berlusconi_46128297-cbdc-4304-aac5-3d9b1038a833.html?utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "Mikegalax",
+      "flags": "0",
+      "short_published": "19-01-2018 00:59",
+      "timestamp_published": "1516319944",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "124116",
+      "date_published": "2018-01-19 00:53:23",
+      "date_added": "2018-01-19 01:27:45",
+      "date_modified": "2018-01-19 01:27:48",
+      "title": "Il racconto di Berlusconi: «Con Confalonieri feci gara di pipì e   vinse lui» Il video",
+      "source": "www.corriere.it",
+      "description": "A «Quinta colonna»  l’ex-premier  e leader di FI ha ricordato una festa di ex alunni dell’Istituto salesiano",
+      "tags": [],
+      "image": "",
+      "url": "http://www.corriere.it/video-articoli/2018/01/18/berlusconi-con-confalonieri-feci-gara-pipi-vinse-lui/981bbff2-fc95-11e7-80a4-a8d109924739.shtml",
+      "popularity": "6",
+      "tw_favorites": "0",
+      "tw_retweets": "4",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "demmy747",
+      "flags": "0",
+      "short_published": "19-01-2018 00:53",
+      "timestamp_published": "1516319603",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "124102",
+      "date_published": "2018-01-19 00:52:49",
+      "date_added": "2018-01-19 01:27:34",
+      "date_modified": "2018-01-19 09:57:50",
+      "title": "In Edicola sul Fatto Quotidiano del 19 gennaio: Renzi & Nardella, la figlia della pm bocciata e assunta - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "Renzi & Nardella, la figlia della pm bocciata e assunta. I raccomandati - La madre archiviò Matteo",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2018/01/19/in-edicola-sul-fatto-quotidiano-del-19-gennaio-renzi-nardella-la-figlia-della-pm-bocciata-e-assunta/4102339/",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "disinformatia",
+      "flags": "0",
+      "short_published": "19-01-2018 00:52",
+      "timestamp_published": "1516319569",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123545",
+      "date_published": "2018-01-19 00:30:15",
+      "date_added": "2018-01-19 01:15:13",
+      "date_modified": "2018-01-19 07:53:47",
+      "title": "M5S cambia simbolo. E Grillo torna in campo: così",
+      "source": "www.corriere.it",
+      "description": "Il cofondatore del Movimento 5 stelle si presenta con volto coperto al vertice a Roma con Di Maio e Casaleggio",
+      "tags": [
+        "casaleggio",
+        "m5s",
+        "movimento 5 stelle",
+        "roma"
+      ],
+      "image": "",
+      "url": "http://www.corriere.it/elezioni-2018/notizie/beppe-grillo-torna-campo-tour-di-maio-m5s-cambia-simbolo-313201fe-fc98-11e7-80a4-a8d109924739.shtml?cmpid=tbd_45714847OJ",
+      "popularity": "22",
+      "tw_favorites": "4",
+      "tw_retweets": "12",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "RealTimeNews__",
+      "flags": "0",
+      "short_published": "19-01-2018 00:30",
+      "timestamp_published": "1516318215",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "124010",
+      "date_published": "2018-01-19 00:11:53",
+      "date_added": "2018-01-19 01:26:38",
+      "date_modified": "2018-01-19 09:28:36",
+      "title": "Beppe Grillo mascherato al vertice a Roma con Di Maio e Casaleggio",
+      "source": "www.corriere.it",
+      "description": "L’arrivo di Beppe Grillo, 69 anni, con il volto coperto da sciarpa e cappello giovedì a Roma: per il co fondatore del Movimento 5 stelle si trattava del primo vertice dallo scorso novembre.",
+      "tags": [
+        "movimento 5 stelle",
+        "roma"
+      ],
+      "image": "",
+      "url": "http://www.corriere.it/foto-gallery/elezioni-2018/18_gennaio_18/beppe-grillo-mascherato-vertice-roma-di-maio-casaleggio-20b44c0c-fc97-11e7-80a4-a8d109924739.shtml",
+      "popularity": "1",
+      "tw_favorites": "1",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "TutteLeNotizie",
+      "flags": "0",
+      "short_published": "19-01-2018 00:11",
+      "timestamp_published": "1516317113",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "124004",
+      "date_published": "2018-01-19 00:10:37",
+      "date_added": "2018-01-19 01:26:30",
+      "date_modified": "2018-01-19 01:26:31",
+      "title": "Centrodestra, Meloni conferma: 'Abbiamo firmato l'accordo di programma'",
+      "source": "video.repubblica.it",
+      "description": "La presidente di Fratelli d'Italia Giorgia Meloni al termine del vertice a Palazzo Grazioli con Silvio Berlusconi e Matteo Salvini ha confermato...",
+      "tags": [
+        "salvini",
+        "centrodestra",
+        "fratelli d'italia"
+      ],
+      "image": "",
+      "url": "https://video.repubblica.it/politica/centrodestra-meloni-conferma-abbiamo-firmato-l-accordo-di-programma/294834/295451?ref=twhv",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "lextresabogados",
+      "flags": "0",
+      "short_published": "19-01-2018 00:10",
+      "timestamp_published": "1516317037",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123971",
+      "date_published": "2018-01-19 00:02:06",
+      "date_added": "2018-01-19 01:26:06",
+      "date_modified": "2018-01-19 08:53:29",
+      "title": "Gentiloni, no a fiera odio e paure",
+      "source": "www.lettera43.it",
+      "description": "Astensionismo dipende anche da politica",
+      "tags": [],
+      "image": "",
+      "url": "http://www.lettera43.it/it/ultima-ora/2018/01/18/gentiloni-no-a-fiera-odio-e-paure/28387/?utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "5",
+      "tw_favorites": "2",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "Lettera43",
+      "flags": "0",
+      "short_published": "19-01-2018 00:02",
+      "timestamp_published": "1516316526",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123937",
+      "date_published": "2018-01-18 23:47:53",
+      "date_added": "2018-01-19 01:25:26",
+      "date_modified": "2018-01-19 11:29:37",
+      "title": "Bongiorno va con la Lega: «Salvini è concreto, come Andreotti»",
+      "source": "www.corriere.it",
+      "description": "La scelta: mi piace la sua nitidezza su sanzioni e regole. «Al ministero della Giustizia no, per carità. Non spaventiamo i clienti del mio studio»",
+      "tags": [
+        "bongiorno",
+        "lega"
+      ],
+      "image": "",
+      "url": "http://www.corriere.it/politica/18_gennaio_19/elezioni-2018-bongiorno-va-la-lega-salvini-e142d7fa-fc96-11e7-80a4-a8d109924739.shtml?cmpid=tbd_08331964Ap",
+      "popularity": "337.5",
+      "tw_favorites": "18",
+      "tw_retweets": "213",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "Corriere",
+      "flags": "0",
+      "short_published": "18-01-2018 23:47",
+      "timestamp_published": "1516315673",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "26",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "26",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123915",
+      "date_published": "2018-01-18 23:44:23",
+      "date_added": "2018-01-19 01:25:05",
+      "date_modified": "2018-01-19 11:19:16",
+      "title": "\"Siamo fascisti, viva Putin\": CasaPound, orgoglio destro. E umiliano Fini con una frase",
+      "source": "www.liberoquotidiano.it",
+      "description": "...",
+      "tags": [],
+      "image": "",
+      "url": "http://www.liberoquotidiano.it/news/politica/13280561/casapound-simone-di-stefano-siamo-fascisti-stimiamo-putin-trump-razzismo-immigrazione-euro-.html#.WmEjPrpKyLM.twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "giuseppelacara",
+      "flags": "0",
+      "short_published": "18-01-2018 23:44",
+      "timestamp_published": "1516315463",
+      "collections": [
+        {
+          "id": "1",
+          "name": "Destra",
+          "slug": "destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123867",
+      "date_published": "2018-01-18 22:49:46",
+      "date_added": "2018-01-19 01:23:14",
+      "date_modified": "2018-01-19 09:49:43",
+      "title": "Le promesse elettorali di Liberi e Uguali sono realizzabili? Come?",
+      "source": "www.la7.it",
+      "description": "Conti e programmi alla prova degli economisti Francesco Giavazzi e Carlo Cottarelli. Linda Giannattasio",
+      "tags": [
+        "giannattasio",
+        "liberi e uguali",
+        "linda"
+      ],
+      "image": "",
+      "url": "http://www.la7.it/piazzapulita/video/le-promesse-elettorali-di-liberi-e-uguali-sono-realizzabili-come-18-01-2018-231830",
+      "popularity": "12",
+      "tw_favorites": "3",
+      "tw_retweets": "6",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "PiazzapulitaLA7",
+      "flags": "0",
+      "short_published": "18-01-2018 22:49",
+      "timestamp_published": "1516312186",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123491",
+      "date_published": "2018-01-18 22:41:05",
+      "date_added": "2018-01-18 22:58:54",
+      "date_modified": "2018-01-19 01:53:15",
+      "title": "Grasso: darei un premio speciale a Berlusconi per la lotta alla mafia. Magistratura democratica: parole sconcertanti",
+      "source": "www.ilsole24ore.com",
+      "description": "Maroni: riconoscimento postumo, ma grazie. La frase pronunciata ieri dal procuratore nazionale antimafia Pietro Grasso, nel corso di un'intervista alla Zanzara su Radio 24, ha provocato un mix di reazioni di segno opposto",
+      "tags": [],
+      "image": "",
+      "url": "http://www.ilsole24ore.com/art/notizie/2012-05-13/grasso-darei-premio-speciale-144153.shtml?uuid=Abi030bF",
+      "popularity": "4",
+      "tw_favorites": "1",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "Ribelllion",
+      "flags": "0",
+      "short_published": "18-01-2018 22:41",
+      "timestamp_published": "1516311665",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123379",
+      "date_published": "2018-01-18 22:26:41",
+      "date_added": "2018-01-18 22:57:36",
+      "date_modified": "2018-01-18 22:58:12",
+      "title": "M5S, no al figlio del boss:\r\n«Ma Di Maio mi voleva»",
+      "source": "www.ilmattino.it",
+      "description": "Scoppia la rabbia a 5 Stelle per le esclusioni alle parlamentarie. Perché la sorpresa, gli aspiranti candidati deputati e senatori, la hanno avuta direttamente al momento del voto on line:...",
+      "tags": [
+        "m5s",
+        "5 stelle"
+      ],
+      "image": "",
+      "url": "https://www.ilmattino.it/pay/edicola/m5s_no_al_figlio_del_boss_ma_di_maio_mi_voleva-3492658.html",
+      "popularity": "10",
+      "tw_favorites": "1",
+      "tw_retweets": "6",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "mattinodinapoli",
+      "flags": "0",
+      "short_published": "18-01-2018 22:26",
+      "timestamp_published": "1516310801",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "3",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "3",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "123390",
+      "date_published": "2018-01-18 22:25:11",
+      "date_added": "2018-01-18 22:57:45",
+      "date_modified": "2018-01-19 09:24:40",
+      "title": "Vaticano, il bruttissimo sospetto sulle alte sfere: che cosa c'è dietro lo strano silenzio su Gentiloni",
+      "source": "www.liberoquotidiano.it",
+      "description": "...",
+      "tags": [
+        "vaticano",
+        "gentiloni"
+      ],
+      "image": "",
+      "url": "http://www.liberoquotidiano.it/news/esteri/13300275/vaticano-papa-francesco-battaglia-avvenire-missione-niger-silenzio-vescovi-gentiloni.html",
+      "popularity": "11.5",
+      "tw_favorites": "4",
+      "tw_retweets": "5",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "Libero_official",
+      "flags": "0",
+      "short_published": "18-01-2018 22:25",
+      "timestamp_published": "1516310711",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "127339",
+      "date_published": "2018-01-18 22:13:04",
+      "date_added": "2018-01-19 08:20:03",
+      "date_modified": "2018-01-19 08:20:04",
+      "title": "Ecco la democrazia telecomandata dagli impiegati della Casaleggio srl",
+      "source": "www.ilgiornale.it",
+      "description": "Sono loro, con la supervisione di Davide, a controllare ogni voto I rischi per la privacy e i rapporti con CartaSi, Barclays e Mps",
+      "tags": [
+        "davide",
+        "casaleggio"
+      ],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/ecco-democrazia-telecomandata-dagli-impiegati-casaleggio-srl-1484307.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "SilvioSanSiro",
+      "flags": "0",
+      "short_published": "18-01-2018 22:13",
+      "timestamp_published": "1516309984",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "122857",
+      "date_published": "2018-01-18 22:10:13",
+      "date_added": "2018-01-18 22:29:41",
+      "date_modified": "2018-01-19 04:45:15",
+      "title": "M5s, prova di compattezza dopo il caos delle Parlamentarie",
+      "source": "tg.la7.it",
+      "description": "Domattina Di Maio, Grillo e Casaleggio depositeranno al ministero dell'Interno il simbolo del M5s in vista del voto. 10 mila gli aspiranti parlamentari che hanno partecipato alla selezione online. Domenica la lista completa dei candidati",
+      "tags": [],
+      "image": "",
+      "url": "http://tg.la7.it/politica/m5s-prova-di-compattezza-dopo-il-caos-delle-parlamentarie-18-01-2018-123836",
+      "popularity": "4.5",
+      "tw_favorites": "0",
+      "tw_retweets": "3",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "Snoopy16466",
+      "flags": "0",
+      "short_published": "18-01-2018 22:10",
+      "timestamp_published": "1516309813",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "122724",
+      "date_published": "2018-01-18 21:47:37",
+      "date_added": "2018-01-18 22:27:20",
+      "date_modified": "2018-01-19 08:22:21",
+      "title": "Doppio pressing, interno ed europeo, per la continuità di governo. Gentiloni: \"Non è il tempo delle cicale\"",
+      "source": "www.huffingtonpost.it",
+      "description": "Nuovo intervento di Moscovici, ma anche Parigi e Berlino premono per l'affermazione di forze europeiste. Fitch: \"Preoccupati per maggioranza fragile\"",
+      "tags": [],
+      "image": "",
+      "url": "http://www.huffingtonpost.it/2018/01/18/indomito-moscovici-auspico-che-il-prossimo-governo-sia-pro-ue_a_23336719/?utm_hp_ref=it-homepage",
+      "popularity": "2.5",
+      "tw_favorites": "1",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "ferroice40",
+      "flags": "0",
+      "short_published": "18-01-2018 21:47",
+      "timestamp_published": "1516308457",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "122211",
+      "date_published": "2018-01-18 21:41:02",
+      "date_added": "2018-01-18 22:00:09",
+      "date_modified": "2018-01-19 10:23:36",
+      "title": "Il richiamo di Gentiloni: «Non è il tempo delle cicale» | Metro News",
+      "source": "www.metronews.it",
+      "description": "ROMA «Non è il momento di scardinare i pilastri del nostro sistema, dalle pensioni al fisco. Non è il tempo delle cicale, ma dell’investimento sul futuro». Così il premier Gentiloni ha rilanciato un chiaro invito alla “sobrietà elettorale”. Mentre da...",
+      "tags": [],
+      "image": "",
+      "url": "http://www.metronews.it/18/01/18/il-richiamo-di-gentiloni-%C2%ABnon-%C3%A8-il-tempo-delle-cicale%C2%BB.html",
+      "popularity": "4",
+      "tw_favorites": "1",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "MetroNewsItalia",
+      "flags": "0",
+      "short_published": "18-01-2018 21:41",
+      "timestamp_published": "1516308062",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "122173",
+      "date_published": "2018-01-18 21:39:02",
+      "date_added": "2018-01-18 21:59:30",
+      "date_modified": "2018-01-19 04:56:16",
+      "title": "La sfida di Berlusconi: 'se la Corte europea mi darà ragione io a Palazzo Chigi, Salvini all'Interno'",
+      "source": "tg.la7.it",
+      "description": "Difficile che la Corte europea dei diritti dell'uomo si pronunci nelle prossime settimane. Stasera vertice di tutto il centrodestra. La coalizione ancora alla ricerca di un accordo su programma e candidature",
+      "tags": [],
+      "image": "",
+      "url": "http://tg.la7.it/politica/la-sfida-di-berlusconi-se-la-corte-europea-mi-darà-ragione-io-a-palazzo-chigi-salvini-allinterno-18-01-2018-123835",
+      "popularity": "39",
+      "tw_favorites": "0",
+      "tw_retweets": "26",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "Nicola57069330",
+      "flags": "0",
+      "short_published": "18-01-2018 21:39",
+      "timestamp_published": "1516307942",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "4",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "4",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121547",
+      "date_published": "2018-01-18 21:30:05",
+      "date_added": "2018-01-18 21:45:05",
+      "date_modified": "2018-01-18 21:45:07",
+      "title": "Torino, consigliera M5Susa l’auto blu per andarea prendere la figlia",
+      "source": "torino.corriere.it",
+      "description": "Dopo il caso dei rimborsi per i taxi, nuovo inciampo per la grillina Deborah Montalbano",
+      "tags": [
+        "torino",
+        "deborah montalbano"
+      ],
+      "image": "",
+      "url": "http://torino.corriere.it/politica/18_gennaio_11/torino-consigliera-m5s-usa-l-auto-blu-andare-prendere-figlia-23f85002-f6d9-11e7-b0f9-ae3913959e9e.shtml",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "Spazioalchimia",
+      "flags": "0",
+      "short_published": "18-01-2018 21:30",
+      "timestamp_published": "1516307405",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "122065",
+      "date_published": "2018-01-18 21:18:36",
+      "date_added": "2018-01-18 21:57:06",
+      "date_modified": "2018-01-19 11:20:37",
+      "title": "Paolo Virzì: \"Ho paura dei 5 Stelle, hanno augurato la morte a me e ai miei figli\"",
+      "source": "www.huffingtonpost.it",
+      "description": "Il regista ricorda di essere stato messo nel mirino dopo dichiarazioni su Nogarin: \"Una cosa così violenta non mi era mai successa\"",
+      "tags": [
+        "paolo",
+        "5 stelle"
+      ],
+      "image": "",
+      "url": "http://www.huffingtonpost.it/2018/01/18/paolo-virzi-ho-paura-dei-5-stelle-hanno-augurato-la-morte-a-me-e-ai-miei-figli_a_23337312/",
+      "popularity": "179",
+      "tw_favorites": "14",
+      "tw_retweets": "110",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "CanciAbo",
+      "flags": "0",
+      "short_published": "18-01-2018 21:18",
+      "timestamp_published": "1516306716",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "11",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "11",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121517",
+      "date_published": "2018-01-18 21:14:42",
+      "date_added": "2018-01-18 21:30:37",
+      "date_modified": "2018-01-19 11:24:31",
+      "title": "Manette agli evasori",
+      "source": "www.huffingtonpost.it",
+      "description": "Nel centrodestra si lavora per sciogliere i nodi del candidato nel Lazio e dei seggi per il quarto polo",
+      "tags": [],
+      "image": "",
+      "url": "http://www.huffingtonpost.it/2018/01/18/matteo-salvini-galera-per-gli-evasori-dopo-la-flat-tax-il-leader-della-lega-lancia-la-linea-dura-contro-chi-non-paga-le-tasse_a_23337301/?utm_hp_ref=it-homepage",
+      "popularity": "40.5",
+      "tw_favorites": "0",
+      "tw_retweets": "27",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "MaxLandra",
+      "flags": "0",
+      "short_published": "18-01-2018 21:14",
+      "timestamp_published": "1516306482",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "8",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "8",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121509",
+      "date_published": "2018-01-18 21:13:06",
+      "date_added": "2018-01-18 21:30:33",
+      "date_modified": "2018-01-19 11:20:49",
+      "title": "Edizione ore 20.00 del 18 gennaio - Video Tgcom24",
+      "source": "www.tgcom24.mediaset.it",
+      "description": "Segui tutte le notizie dell’edizione integrale del TG5",
+      "tags": [],
+      "image": "",
+      "url": "http://www.tgcom24.mediaset.it/2018/video/edizione-ore-20-00-del-18-gennaio_3045875.shtml",
+      "popularity": "7.5",
+      "tw_favorites": "6",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "LuigiDeBiase",
+      "flags": "0",
+      "short_published": "18-01-2018 21:13",
+      "timestamp_published": "1516306386",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121463",
+      "date_published": "2018-01-18 21:11:56",
+      "date_added": "2018-01-18 21:30:05",
+      "date_modified": "2018-01-19 11:21:41",
+      "title": "Di Battista: “M5s non vuole abolire le tasse universitarie, ma estendere le esenzioni”",
+      "source": "www.fanpage.it",
+      "description": "Alessandro Di Battista spiega che il Movimento 5 Stelle è contrario alla proposta di Liberi e Uguali di abolire le tasse universitarie, ma si dice favorevole...",
+      "tags": [
+        "battista",
+        "m5s",
+        "movimento 5 stelle",
+        "liberi e uguali"
+      ],
+      "image": "",
+      "url": "https://www.fanpage.it/di-battista-m5s-non-vuole-abolire-le-tasse-universitarie-ma-estendere-le-esenzioni/",
+      "popularity": "14.5",
+      "tw_favorites": "7",
+      "tw_retweets": "5",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "0",
+      "screen_name": "FrancoTrax",
+      "flags": "0",
+      "short_published": "18-01-2018 21:11",
+      "timestamp_published": "1516306316",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121439",
+      "date_published": "2018-01-18 21:04:57",
+      "date_added": "2018-01-18 21:29:51",
+      "date_modified": "2018-01-18 22:28:29",
+      "title": "La Consulta dà un altro colpo alla propaganda no vax",
+      "source": "www.ilfoglio.it",
+      "description": "Pubblicate le motivazioni della sentenza con cui la Corte ha respinto il ricorso della Regione Veneto: “L'obbligo introdotto dal governo è ragionevole e necessario\"",
+      "tags": [],
+      "image": "",
+      "url": "https://www.ilfoglio.it/salute/2018/01/18/news/vaccini-corte-costituzionale-no-vax-luigi-di-maio-173806/",
+      "popularity": "3",
+      "tw_favorites": "0",
+      "tw_retweets": "2",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "Luciosalis",
+      "flags": "0",
+      "short_published": "18-01-2018 21:04",
+      "timestamp_published": "1516305897",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        },
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "2",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "2",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121368",
+      "date_published": "2018-01-18 21:01:10",
+      "date_added": "2018-01-18 21:29:08",
+      "date_modified": "2018-01-18 22:24:17",
+      "title": "Omofobia, scontro in Puglia sulla proposta di legge di Emiliano. Forza Italia: \"Alimenta teorie gender\"",
+      "source": "bari.repubblica.it",
+      "description": "Appproda in commissione il provvedimento voluto dal governatore contro l'omofobia. Critiche dal forum delle famiglie, pieno appoggio da Arcigay. Emiliano",
+      "tags": [
+        "puglia",
+        "arcigay"
+      ],
+      "image": "",
+      "url": "http://bari.repubblica.it/cronaca/2018/01/18/news/omofobia_scontro_in_puglia_sulla_proposta_di_legge_della_regione_forza_italia_alimenta_teorie_gender_-186783636/?ref=twhr&timestamp=1516305534000&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "1.5",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "rep_bari",
+      "flags": "0",
+      "short_published": "18-01-2018 21:01",
+      "timestamp_published": "1516305670",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121410",
+      "date_published": "2018-01-18 21:00:33",
+      "date_added": "2018-01-18 21:29:36",
+      "date_modified": "2018-01-18 21:29:37",
+      "title": "Elezioni: Mattiello (Pd), liste pulite - Legalità & Scuola",
+      "source": "www.ansa.it",
+      "description": "\"I partiti non dimentichino gli impegni assunti per formare liste pulite. (ANSA)",
+      "tags": [
+        "mattiello",
+        "pd"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/canale_legalita_scuola/notizie/speciali_eventi/2018/01/18/elezioni-mattiello-pd-liste-pulite_cfb594ff-ce71-4bd0-95a3-fa354ddee70a.html",
+      "popularity": "1.5",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "1",
+      "screen_name": "ANSA_Legalita",
+      "flags": "0",
+      "short_published": "18-01-2018 21:00",
+      "timestamp_published": "1516305633",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "120794",
+      "date_published": "2018-01-18 20:49:54",
+      "date_added": "2018-01-18 21:15:23",
+      "date_modified": "2018-01-18 21:15:23",
+      "title": "Vitalizi, salta il taglio. Sposetti (Pd) soddisfatto: \"Ddl Richetti? Fatto sapendo già che Consulta l'avrebbe bocciato\" - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "La battaglia sulla riforma degli assegni parlamentari e del ricalcolo dei vitali già maturato per ex deputati e senatori e per i parlamentari di lungo corso, si arena e molto probabilmente non se ne farà più nulla in questa legislatura. Tra i soddisfatti c’è Ugo Sposetti, senatore dem e fiero oppositore al Ddl Richetti. “Non …",
+      "tags": [
+        "sposetti",
+        "richetti",
+        "pd"
+      ],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2017/12/12/vitalizi-salta-il-taglio-sposetti-pd-soddisfatto-ddl-richetti-fatto-sapendo-gia-che-consulta-lavrebbe-bocciato/4033751/",
+      "popularity": "1",
+      "tw_favorites": "1",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "GianniPetta",
+      "flags": "0",
+      "short_published": "18-01-2018 20:49",
+      "timestamp_published": "1516304994",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "121288",
+      "date_published": "2018-01-18 20:24:19",
+      "date_added": "2018-01-18 21:27:17",
+      "date_modified": "2018-01-18 22:53:04",
+      "title": "Grasso corregge D'Alema: «Governo del Presidente? Solo per nuova legge elettorale» - Secolo d'Italia",
+      "source": "www.secoloditalia.it",
+      "description": "Grasso corregge Massimo D'Alema sull'ipotesi di un governo del Presidente: «Saremo disponibili soltanto per una nuova legge elettorale»",
+      "tags": [],
+      "image": "",
+      "url": "http://www.secoloditalia.it/2018/01/grasso-corregge-dalema-governo-del-presidente-solo-per-nuova-legge-elettorale/?utm_source=dlvr.it&utm_medium=facebook",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "farro50farro",
+      "flags": "0",
+      "short_published": "18-01-2018 20:24",
+      "timestamp_published": "1516303459",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "120678",
+      "date_published": "2018-01-18 20:12:13",
+      "date_added": "2018-01-18 20:30:51",
+      "date_modified": "2018-01-18 20:30:52",
+      "title": "Rosatellum bis, Meli (Corriere): “Prendetevela con la Corte Costituzionale, è colpa sua. Vittoria M5s alle politiche? Emigrerò” - Il Fatto Quotidiano",
+      "source": "www.ilfattoquotidiano.it",
+      "description": "“Rosatellum bis? Questa volta il casino l’ha fatto la Corte Costituzionale. Gli italiani dovrebbero prendersela legittimamente, e lo faccio anche io, con la Corte, perché la colpa è sua. E la Corte Costituzionale in questo Paese è l’organo più conservatore che vuole sempre mantenere lo status quo fino alla fine”. Sono le parole della giornalista …",
+      "tags": [
+        "corriere",
+        "m5s",
+        "meli"
+      ],
+      "image": "",
+      "url": "https://www.ilfattoquotidiano.it/2017/10/16/rosatellum-bis-meli-corriere-prendetevela-con-la-corte-costituzionale-e-colpa-sua-vittoria-m5s-alle-politiche-emigrero/3917090/",
+      "popularity": "12",
+      "tw_favorites": "0",
+      "tw_retweets": "8",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "marinellafly12",
+      "flags": "0",
+      "short_published": "18-01-2018 20:12",
+      "timestamp_published": "1516302733",
+      "collections": [
+        {
+          "id": "5",
+          "name": "Movimento 5 Stelle",
+          "slug": "m5s"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "120627",
+      "date_published": "2018-01-18 20:08:10",
+      "date_added": "2018-01-18 20:30:09",
+      "date_modified": "2018-01-19 09:53:55",
+      "title": "Sondaggi, Forza Italia record",
+      "source": "www.ilgiornale.it",
+      "description": "Nell&#039;ultima settimana FI in crescita costante: ora è al 16,5%, miglior risultato da un anno in qua. Cala ancora il Pd",
+      "tags": [
+        "forza italia",
+        "fi",
+        "pd"
+      ],
+      "image": "",
+      "url": "http://www.ilgiornale.it/news/politica/sondaggi-forza-italia-record-centrodestra-oltre-37-1484602.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "FiG_Umbria",
+      "flags": "0",
+      "short_published": "18-01-2018 20:08",
+      "timestamp_published": "1516302490",
+      "collections": [
+        {
+          "id": "2",
+          "name": "Centro Destra",
+          "slug": "centro-destra"
+        }
+      ],
+      "tweets": {
+        "number": "5",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "5",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "120606",
+      "date_published": "2018-01-18 20:06:01",
+      "date_added": "2018-01-18 20:29:52",
+      "date_modified": "2018-01-19 11:18:03",
+      "title": "Elezioni: Civati, D'Alema? Preoccupiamoci di 4 marzo prima che di 5.... | Metro News",
+      "source": "www.metronews.it",
+      "description": "Roma, 18 gen. (AdnKronos) - \"Io sono contro le larghe intese da sempre. Ma, a parte le mie idee, mi sembra di non aver avuto occasione di discutere in Liberi e Uguali quanto detto oggi da D'Alema... Quello che succede dopo il 4 marzo, credo che andrà discusso nel partito o no?\". Pippo Civati parla così del governo del presidente prefigurato da Massimo D'Alema per il post elezioni.",
+      "tags": [
+        "civati",
+        "liberi e uguali"
+      ],
+      "image": "",
+      "url": "http://www.metronews.it/18/01/18/elezioni-civati-dalema-preoccupiamoci-di-4-marzo-prima-che-di-5.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "robertodiloreto",
+      "flags": "0",
+      "short_published": "18-01-2018 20:06",
+      "timestamp_published": "1516302361",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Sinistra",
+          "slug": "sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "120595",
+      "date_published": "2018-01-18 20:05:07",
+      "date_added": "2018-01-18 20:29:37",
+      "date_modified": "2018-01-19 10:48:08",
+      "title": "Satira su Claretta Petacci, striscione di Forza Nuova sotto casa di Gene Gnocchi a Faenza",
+      "source": "bologna.repubblica.it",
+      "description": "Il comico si difende: \"Malinteso pazzesco\"",
+      "tags": [],
+      "image": "",
+      "url": "http://bologna.repubblica.it/cronaca/2018/01/18/news/satira_su_claretta_petacci_striscione_di_forza_nuova_sotto_casa_di_gene_gnocchi_a_faenza-186778597/?ref=twhr&timestamp=1516301794000&utm_source=dlvr.it&utm_medium=twitter",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "rep_bologna",
+      "flags": "0",
+      "short_published": "18-01-2018 20:05",
+      "timestamp_published": "1516302307",
+      "collections": [
+        {
+          "id": "1",
+          "name": "Destra",
+          "slug": "destra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    },
+    {
+      "id": "119997",
+      "date_published": "2018-01-18 20:03:48",
+      "date_added": "2018-01-18 20:15:33",
+      "date_modified": "2018-01-18 20:15:34",
+      "title": "Martina, in Umbria ci saranno candidati Pd capaci - Umbria",
+      "source": "www.ansa.it",
+      "description": "\"Qui come altrove siamo nelle condizioni di candidare persone capaci e rappresentative del\r\nterritorio e dobbiamo fare insieme questo lavoro\": così il vice segretario nazionale del Pd Maurizio\r\nMartina a Perugia per l'inaugurazione della nuova sede del Pd Um...\r\n\r\n© ANSA",
+      "tags": [
+        "martina",
+        "pd",
+        "umbria",
+        "perugia"
+      ],
+      "image": "",
+      "url": "http://www.ansa.it/umbria/notizie/2018/01/18/martina-in-umbria-candidati-pd-capaci_35036416-9cd0-49f0-bf18-b6cf09bc1ac3.html",
+      "popularity": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "sentiment": "-1",
+      "screen_name": "AgostinoOttavi",
+      "flags": "0",
+      "short_published": "18-01-2018 20:03",
+      "timestamp_published": "1516302228",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Centro Sinistra",
+          "slug": "centro-sinistra"
+        }
+      ],
+      "tweets": {
+        "number": "1",
+        "sentiment_average": "0.0000",
+        "sentiment_negative": "0",
+        "sentiment_neutral": "1",
+        "sentiment_positive": "0"
+      }
+    }
+  ],
+  "message": "OK",
+  "page_size": "100",
+  "offset": 0,
+  "total_articles": "1332",
+  "total_pages": 14
+}
