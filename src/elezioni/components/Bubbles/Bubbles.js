@@ -77,7 +77,7 @@ class Bubbles extends Component {
     const extents = {
       y:extent(articles, d => +d[yField]),
       r:extent(articles, d => {
-        console.log(d)
+        // console.log(d)
         return +d.tweets.number + +d.popularity
       }),
       pop:extent(articles, d => +d.popularity),
@@ -121,7 +121,7 @@ class Bubbles extends Component {
       width:`${bubble.r*2}px`,
       height:`${bubble.r*2}px`,
       backgroundColor:bubble.color,
-    }} className={bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'}>
+    }} className={`${bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'} ${bubble.collections.map(d => d.slug).join('-')}`}>
       { bubble.r*2 >= MAX_WIDTH_FOR_TITLES && <span className="inside"><h2>{bubble.title}</h2></span>}
       <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3>{bubble.title}<h4>{bubble.source}</h4></span>
     </li>)

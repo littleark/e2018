@@ -30,7 +30,9 @@ class ElezioniContainer extends Component {
             console.log('setting date', date)
             days.push(date);
           }
-
+          if(article.collections.length > 1) {
+            console.log(article)
+          }
           return article;
         });
         this.setState({articles})

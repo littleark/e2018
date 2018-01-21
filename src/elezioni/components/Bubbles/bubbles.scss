@@ -1,3 +1,9 @@
+$destra: #1E7AF7;
+$centro-destra: #56CCF2;
+$centro-sinistra: #F55B5B;
+$sinistra: rgba(186,0,78,1);
+$m5s: #FFDC73;
+
 .bubbles-container {
   position: relative;
   width: 1000px;
@@ -12,10 +18,46 @@
       position: absolute;
       width: 50px;
       height: 50px;
-      background-color: rgba(186,0,78,0.9);
+      background-color: #fff;;
       overflow: visible;
       border-radius: 50%;
-      border: 2px solid rgba(170,0,70,0.9);
+      // border: 2px solid rgba(170,0,70,0.9);
+
+      &.destra {
+        background-color: $destra;
+      }
+      &.centro-destra {
+        background-color: $centro-destra;
+      }
+      &.m5s {
+        background-color: $m5s;
+      }
+      &.centro-sinistra {
+        background-color: $centro-sinistra;
+      }
+      &.sinistra {
+        background-color: $sinistra;
+      }
+      &.centro-destra-centro-sinistra,
+      &.centro-sinistra-centro-destra {
+        background: linear-gradient(to right, $centro-destra 0%,$centro-sinistra 100%);
+      }
+      &.centro-destra-sinistra,
+      &.sinistra-centro-destra {
+        background: linear-gradient(to right, $centro-destra 0%,$sinistra 100%);
+      }
+      &.centro-sinistra-sinistra,
+      &.sinistra-centro-sinistra {
+        background: linear-gradient(to right, $centro-sinistra 0%,$sinistra 100%);
+      }
+      &.m5s-centro-destra,
+      &.centro-destra-m5s {
+        background: linear-gradient(to right, $centro-destra 0%,$m5s 100%);
+      }
+      &.m5s-centro-sinistra,
+      &.centro-sinistra-m5s {
+        background: linear-gradient(to right, $m5s 0%,$centro-sinistra 100%);
+      }
 
       &.small {
         overflow: visible;
@@ -109,7 +151,7 @@
       span {
         position: absolute;
         display: inline-block;
-        background-color: #fff;
+        background-color: #000;
         padding: 1px;
         height: 100%;
         top: 9px;
