@@ -22,7 +22,7 @@ class ElezioniContainer extends Component {
       .then((data) => {
         console.log("parsed json", data);
         const days = [];
-        const articles = data.articles.sort((a,b) => b.timestamp_published - a.timestamp_published).map((article,i) => {
+        const articles = data.articles.filter(d => typeof d.dbid === 'undefined').sort((a,b) => b.timestamp_published - a.timestamp_published).map((article,i) => {
           article.index = i;
           const date = moment(article.date_published).format('YYYY-MM-DD HH:00');
           if(days.indexOf(date) === -1) {

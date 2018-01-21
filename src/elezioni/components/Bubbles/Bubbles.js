@@ -76,7 +76,10 @@ class Bubbles extends Component {
 
     const extents = {
       y:extent(articles, d => +d[yField]),
-      r:extent(articles, d => +d.tweets.number + +d.popularity),
+      r:extent(articles, d => {
+        console.log(d)
+        return +d.tweets.number + +d.popularity
+      }),
       pop:extent(articles, d => +d.popularity),
     };
     console.log('EXZTENTS', extents)
