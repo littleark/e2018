@@ -6,7 +6,7 @@ $m5s: #FFDC73;
 
 .bubbles-container {
   position: relative;
-  width: 1000px;
+  width: 100%;
 
   ul.bubbles {
     margin: 0;
@@ -21,43 +21,7 @@ $m5s: #FFDC73;
       background-color: #fff;;
       overflow: visible;
       border-radius: 50%;
-      // border: 2px solid rgba(170,0,70,0.9);
-
-      &.destra {
-        background-color: $destra;
-      }
-      &.centro-destra {
-        background-color: $centro-destra;
-      }
-      &.m5s {
-        background-color: $m5s;
-      }
-      &.centro-sinistra {
-        background-color: $centro-sinistra;
-      }
-      &.sinistra {
-        background-color: $sinistra;
-      }
-      &.centro-destra-centro-sinistra,
-      &.centro-sinistra-centro-destra {
-        background: linear-gradient(to right, $centro-destra 0%,$centro-sinistra 100%);
-      }
-      &.centro-destra-sinistra,
-      &.sinistra-centro-destra {
-        background: linear-gradient(to right, $centro-destra 0%,$sinistra 100%);
-      }
-      &.centro-sinistra-sinistra,
-      &.sinistra-centro-sinistra {
-        background: linear-gradient(to right, $centro-sinistra 0%,$sinistra 100%);
-      }
-      &.m5s-centro-destra,
-      &.centro-destra-m5s {
-        background: linear-gradient(to right, $centro-destra 0%,$m5s 100%);
-      }
-      &.m5s-centro-sinistra,
-      &.centro-sinistra-m5s {
-        background: linear-gradient(to right, $m5s 0%,$centro-sinistra 100%);
-      }
+      border: 2px solid #000;
 
       &.small {
         overflow: visible;
@@ -122,7 +86,7 @@ $m5s: #FFDC73;
 
       &:hover {
         z-index: 99999;
-        border-color: #000;
+        border-color: #fff;
         span.outside {
           display: block;
         }
