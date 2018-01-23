@@ -33,31 +33,65 @@ $m5s: #FFDC73;
         font-size: 16px;
         line-height: 18px;
         position: absolute;
-        width: calc(100% - 20px);
-        text-align: center;
-        top: 50%;
-        transform: translate(0,-50%);
-        padding: 0 10px;
-
+        display: block;
+        padding: 0;
         pointer-events: none;
+
+        h2 {
+          margin: 0;
+          padding: 0;
+          display: block;
+          position: relative;
+          font-size: inherit;
+          line-height: inherit;
+        }
+
         &.inside {
           border-radius: 50%;
           overflow: hidden;
           top:0;
           bottom:0;
           transform: translate(0,0);
-
+          width: calc(100% - 20px);
+          top: 50%;
+          transform: translate(0,-50%);
+          height: 100%;
+          text-align: center;
+          width: calc(100% - 30px);
+          padding: 0;
+          padding-left: 15px;
 
           h2 {
-            margin: 0;
-            padding: 0;
             top: 50%;
             transform: translateY(-50%);
-            display: block;
-            position: absolute;
-            font-size: inherit;
-            line-height: inherit;
           }
+        }
+        &.top-title {
+          color:#fff;
+          width: 200px;
+
+          text-align: center;
+          left: 50%;
+          transform: translate(-50%, 100%);
+          bottom: -10px;
+
+          font-size: 20px;
+          line-height: 22px;
+
+          &.left-title {
+              top: 50%;
+              text-align: left;
+              left: 100%;
+              margin-left: 5px;
+              transform: translate(0, -50%);
+          }
+          &.right-title {
+              top: 50%;
+              text-align: right;
+              left: -5px;
+              transform: translate(-100%, -50%);
+          }
+
         }
         &.outside {
           width: 200px;
@@ -68,8 +102,7 @@ $m5s: #FFDC73;
           border-top: 1px solid #888;
           display: none;
           background: rgba(255,255,255,0.9);
-          padding-left: 10px;
-          padding-top: 10px;
+          padding: 10px;
           color: #333;
           h3 {
             padding: 0;

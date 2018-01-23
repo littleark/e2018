@@ -35,6 +35,9 @@ const  colors = {
 const MIN_WIDTH = 800;
 const BLOCK_HEIGHT = 2000;
 const ARTICLES_IN_BLOCK = 200;
+const TOP_ARTICLES = 10;
+const SPACE_BETWEEN_TOP = 100;
+const TOP_PART = window.innerHeight * 0.9 - SPACE_BETWEEN_TOP;
 
 const MAX_WIDTH_FOR_TITLES = 150;
 
@@ -49,24 +52,23 @@ class Bubbles extends Component {
     }
   }
   componentDidMount() {
-    // this.workerInstance = new WebWorker(BubbleWorker);
-    // this.workerInstance.addEventListener("message", e => {
-    //   console.log('worker message', e.data);
-    //   this.updateBubbles(e.data.processedData);
-    // }, false);
-
-    // this.simulation = forceSimulation()
-    //     .velocityDecay(0.5)
-    //     .force("x", forceX().strength(0.002))
-    //     .force("y", forceY().strength(0.002))
-    //     .force("collide", forceCollide().radius(function(d) { return d.r + 0.5; }).iterations(2))
     const yField = this.props.fields.y;
 
     this.simulation = forceSimulation()
       .force("x", forceX((MIN_WIDTH) / 2))
-      .force("y", forceY((d) => { return this.yscale(+d[yField]); }).strength(1))
+      .force("y", forceY((d,i) => {
+        if(i <= TOP_ARTICLES) {
+            return this.yscales[0](+d[yField]);
+        }
+        return this.yscales[1](+d[yField]);
+      }).strength(1))
       //.force("collide", forceCollide(4))
-      .force("collide", forceCollide().radius(function(d) { return d.r + 2.5; }).iterations(2))
+      .force("collide", forceCollide().radius(function(d,i) {
+        if(i<=TOP_ARTICLES) {
+          return d.r + SPACE_BETWEEN_TOP;
+        }
+        return d.r + 2.5;
+      }).iterations(2))
 
     this.ticked = () => {
       //console.log(this.graph.nodes[0].x,this.graph.nodes[0].y)
@@ -75,13 +77,13 @@ class Bubbles extends Component {
     this.bubbles = d3Select(this.bubbleDOM).selectAll('li').data(this.graph.nodes);
     //this.bubbles.attr('rel',d => d.id);
 
-    this.height = (this.graph.nodes.length / ARTICLES_IN_BLOCK) * BLOCK_HEIGHT;
+    this.height = (this.graph.nodes.length / ARTICLES_IN_BLOCK) * BLOCK_HEIGHT + TOP_PART;
     console.log("SETTING HEIGHT TO", this.height)
   }
   componentDidUpdate() {
-    if(this.workerInstance) {
-        this.workerInstance.postMessage((this.graph.nodes));
-    }
+    // if(this.workerInstance) {
+    //     this.workerInstance.postMessage((this.graph.nodes));
+    // }
     console.log("########", "componentDidUpdate")
     console.log("HEIGHT", this.height)
     console.log(this.graph.nodes.length / ARTICLES_IN_BLOCK)
@@ -93,11 +95,14 @@ class Bubbles extends Component {
     const {articles, fields, width} = nextProps;
     const yField = fields.y;
 
-    this.height = (articles.length / ARTICLES_IN_BLOCK) * BLOCK_HEIGHT;
+    this.height = (articles.length / ARTICLES_IN_BLOCK) * BLOCK_HEIGHT + TOP_PART;
     console.log("SETTING HEIGHT TO", this.height)
     console.log(`(${this.graph.nodes.length} / ${ARTICLES_IN_BLOCK}) * ${BLOCK_HEIGHT}`)
     const extents = {
-      y:extent(articles, d => +d[yField]),
+      y:[
+        extent(articles.filter((d,i) => i <= TOP_ARTICLES), d => +d[yField]),
+        extent(articles.filter((d,i) => i > TOP_ARTICLES), d => +d[yField])
+      ],
       r:extent(articles, d => {
         // console.log(d)
         return +d.tweets.number + +d.popularity
@@ -107,13 +112,21 @@ class Bubbles extends Component {
     console.log('EXZTENTS', extents)
     const minRadius = 12;
     const maxRadius = width / 8;
-    this.yscale = scaleLinear().domain(extents.y).range([margins.top,this.height - margins.bottom]);
+    this.yscales = [
+      scaleLinear().domain(extents.y[0]).range([margins.top,TOP_PART]),
+      scaleLinear().domain(extents.y[1]).range([TOP_PART + SPACE_BETWEEN_TOP +margins.top,this.height - margins.bottom])
+    ]
     this.rscale = scaleSqrt().domain([extents.pop[0], Math.min(extents.pop[1], 3000)]).range([minRadius,maxRadius]).clamp(true);
     colorScale.domain(extents.pop);
 
     this.graph.nodes = articles.map((bubble,i) => {
-      bubble.x = bubble.x || margins.left + (width - (margins.left+margins.right)) / 2;
-      bubble.y = bubble.y || this.yscale(+bubble[yField]);
+      bubble.x = bubble.x || margins.left + (width - (margins.left+margins.right)) / 2  + (-50 + Math.random()*100);
+      if(i <= TOP_ARTICLES) {
+        bubble.y = bubble.y || this.yscales[0](+bubble[yField]) + (-10 + Math.random()*20);
+      } else {
+        bubble.y = bubble.y || this.yscales[1](+bubble[yField]);
+      }
+
       bubble.r = bubble.r || this.rscale(+bubble.tweets.number + +bubble.popularity);
       // bubble.color = colorScale(+bubble.popularity)
       return bubble;
@@ -134,6 +147,13 @@ class Bubbles extends Component {
           .nodes(this.graph.nodes)
           .on("tick", this.ticked)
           .on("end", () => {
+
+            // bubbles.select('span').classed('left-title', d => {
+            //   console.log("----->",d)
+            //   return d.x > this.props.width / 2
+            // })
+            // bubbles.select('span').classed('right-title', d => d.x <= this.props.width / 2)
+
             console.log('end')
           })
   }
@@ -150,7 +170,7 @@ class Bubbles extends Component {
           const bgColorStep = Math.floor(100 / (l - 1));
           const bgGradient = bubble.collections.sort((a,b) => areas.indexOf(a.slug) - areas.indexOf(b.slug)).map((d,i) => `${colors[d.slug]} ${i * bgColorStep}%`).join(',');
           bgColor = `linear-gradient(to right, ${bgGradient})`;
-          // console.log(bgColor)
+          //bgColor = `radial-gradient(circle at center, ${bgGradient})`;
       }
 
       return <li key={bubble.id} style={{
@@ -159,9 +179,10 @@ class Bubbles extends Component {
       width:`${bubble.r*2}px`,
       height:`${bubble.r*2}px`,
         background:bgColor,
-      }} className={`${bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'}`}>
+      }} className={`${bubble.index <= TOP_ARTICLES ? 'top-articles' : 'bottom-articles'} ${bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'}`}>
         { bubble.r*2 >= MAX_WIDTH_FOR_TITLES && <span className="inside"><h2>{bubble.title}</h2></span>}
-      <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3>{bubble.title}<h4>{bubble.source}</h4></span>
+        { bubble.index <= TOP_ARTICLES && <span className="top-title"><h2>{bubble.title}</h2></span>}
+        <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3>{bubble.title}<h4>{bubble.source}</h4></span>
     </li>})
 
     const ticks = this.state.bubbles.filter(bubble => bubble.date).filter((d,i) => i%2).map(bubble => {
