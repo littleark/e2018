@@ -11,8 +11,17 @@ import './bubbles.css';
 const sequentialRed = ['#ffe4c4', '#ffc991', '#ffaa74', '#ff8869', '#fc6266', '#f13a5f', '#dc143c']; // red scale
 const colorScale = scaleQuantize().range(sequentialRed);
 
+const MIN_WIDTH = 800;
+const BLOCK_HEIGHT = 2000;
+const ARTICLES_IN_BLOCK = 200;
+const TOP_ARTICLES = 30;
+const SPACE_BETWEEN_TOP = 100;
+const TOP_PART = (window.innerHeight * 0.9) * 2.5;
+
+const MAX_WIDTH_FOR_TITLES = 150;
+
 const margins = {
-  top: 80,
+  top: SPACE_BETWEEN_TOP,
   bottom: 80,
   left: 0,
   right: 0,
@@ -33,14 +42,7 @@ const  colors = {
   black: 'rgba(0,0,0,0)',
 }
 
-const MIN_WIDTH = 800;
-const BLOCK_HEIGHT = 2000;
-const ARTICLES_IN_BLOCK = 200;
-const TOP_ARTICLES = 20;
-const SPACE_BETWEEN_TOP = 100;
-const TOP_PART = (window.innerHeight * 0.9) * 2 - SPACE_BETWEEN_TOP;
 
-const MAX_WIDTH_FOR_TITLES = 150;
 
 class Bubbles extends Component {
   constructor(props) {
@@ -65,9 +67,9 @@ class Bubbles extends Component {
       }).strength(1))
       //.force("collide", forceCollide(4))
       .force("collide", forceCollide().radius(function(d,i) {
-        if(i<=TOP_ARTICLES) {
-          return d.r + SPACE_BETWEEN_TOP + 2.5;
-        }
+        // if(i<=TOP_ARTICLES) {
+        //   return d.r + SPACE_BETWEEN_TOP + 2.5;
+        // }
         return d.r + 2.5;
       }).iterations(2))
 
@@ -116,20 +118,32 @@ class Bubbles extends Component {
     const maxRadius = width / 8;
     this.yscales = [
       scaleLinear().domain(extents.y[0]).range([margins.top,TOP_PART]),
-      scaleLinear().domain(extents.y[1]).range([TOP_PART + SPACE_BETWEEN_TOP*2 +margins.top,this.height - margins.bottom])
+      scaleLinear().domain(extents.y[1]).range([TOP_PART+margins.top,this.height - margins.bottom])
     ]
-    this.rscale = scaleSqrt().domain([extents.pop[0], Math.min(extents.pop[1], 3000)]).range([minRadius,maxRadius]).clamp(true);
+
+    this.radiusDeltaScale = scaleLinear().domain([TOP_ARTICLES/2, TOP_ARTICLES]).range([1, 0]).clamp(true);
+    this.opacityScale = scaleLinear().domain([0, TOP_ARTICLES]).range([1, 0]).clamp(true);
+
+    this.rscales = [
+      scaleSqrt().domain([extents.pop[0], Math.min(extents.pop[1], 3000)]).range([minRadius,maxRadius]).clamp(true),
+      scaleSqrt().domain([extents.pop[0], Math.min(extents.pop[1], 3000)]).range([minRadius,maxRadius]).clamp(true)
+    ];
+
     colorScale.domain(extents.pop);
 
     this.graph.nodes = articles.map((bubble,i) => {
       bubble.x = bubble.x || margins.left + (width - (margins.left+margins.right)) / 2  + (-50 + Math.random()*100);
       if(i <= TOP_ARTICLES) {
         bubble.y = bubble.y || this.yscales[0](+bubble[yField]) + (-10 + Math.random()*20);
+        this.rscales[0].range([minRadius, maxRadius]);
+        bubble.r = bubble.r || this.rscales[0](+bubble.tweets.number + +bubble.popularity) + this.radiusDeltaScale(bubble.index) * SPACE_BETWEEN_TOP;
+        bubble.innerOpacity = this.opacityScale(bubble.index);
       } else {
         bubble.y = bubble.y || this.yscales[1](+bubble[yField]);
+        bubble.r = bubble.r || this.rscales[1](+bubble.tweets.number + +bubble.popularity);
       }
 
-      bubble.r = bubble.r || this.rscale(+bubble.tweets.number + +bubble.popularity);
+
       // bubble.color = colorScale(+bubble.popularity)
       return bubble;
     });
@@ -167,25 +181,17 @@ class Bubbles extends Component {
       const collection = bubble.collections.sort((a,b) => areas.indexOf(a.slug) - areas.indexOf(b.slug));
       const l = collection.length;
 
-      const outerCircleRadius = bubble.r + SPACE_BETWEEN_TOP;
-      const outerCircleStyle = {
-        width: `${outerCircleRadius * 2}px`,
-        height: `${outerCircleRadius * 2}px`,
-        background: bgColor,
-        top: `calc(50% + ${SPACE_BETWEEN_TOP - 10}px)`,
+      const innerCircleRadius = bubble.r - 5;
+      const innerCircleStyle = {
+        width: `${innerCircleRadius * 2}px`,
+        height: `${innerCircleRadius * 2}px`,
+        opacity: bubble.innerOpacity,
       };
 
       if(l > 1) {
           const bgColorStep = Math.floor(100 / (l - 1));
           const bgGradient = collection.map((d,i) => `${colors[d.slug]} ${i * bgColorStep}%`).join(',');
           bgColor = `linear-gradient(to right, ${bgGradient})`;
-          //bgColor = `radial-gradient(circle at center, ${bgGradient})`;
-
-        // const bgRadialColorStep = Math.floor(100 / (l));
-        // const bgRadialGradient = [...collection,{slug:'black'}].map((d,i) => `${colors[d.slug]} ${i * bgRadialColorStep}%`).join(',');
-        // const bgRadialColor = `radial-gradient(circle at center, ${bgRadialGradient})`;
-        //outerCircleStyle.background = bgRadialColor;
-        outerCircleStyle.background = bgColor;
       }
 
       return <li key={bubble.id} style={{
@@ -195,9 +201,9 @@ class Bubbles extends Component {
       height:`${bubble.r*2}px`,
         background:bgColor,
       }} className={`${bubble.index <= TOP_ARTICLES ? 'top-articles' : 'bottom-articles'} ${bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'}`}>
-        { bubble.index <= TOP_ARTICLES && <div className="top-article-outer-circle" style={outerCircleStyle}/>}
+        { bubble.index <= TOP_ARTICLES && <div className="top-article-inner-circle" style={innerCircleStyle}/>}
         { bubble.r*2 >= MAX_WIDTH_FOR_TITLES && <span className="inside"><h2>{bubble.title}</h2></span>}
-        { bubble.index <= TOP_ARTICLES && <span className="top-title"><h2>{bubble.title}</h2></span>}
+        {/* { bubble.index <= TOP_ARTICLES && <span className="top-title"><h2>{bubble.title}</h2></span>} */}
         <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3>{bubble.title}<h4>{bubble.source}</h4></span>
     </li>})
 
