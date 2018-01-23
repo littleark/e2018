@@ -73,7 +73,7 @@ $m5s: #FFDC73;
           text-align: center;
           left: 50%;
           transform: translate(-50%, 100%);
-          bottom: -10px;
+          bottom: -30px;
 
           font-size: 20px;
           line-height: 22px;
@@ -123,6 +123,17 @@ $m5s: #FFDC73;
         span.outside {
           display: block;
         }
+      }
+
+      .top-article-outer-circle {
+        z-index: 0;
+        position: absolute;
+        background-color: rgba(255,255,255,0.1);
+        border-radius: 50%;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+        opacity: 0.15;
       }
     }
   }

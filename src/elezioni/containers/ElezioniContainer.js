@@ -20,7 +20,7 @@ class ElezioniContainer extends Component {
   }
   componentDidMount() {
     //fetch(`${process.env.PUBLIC_URL}/data/articles3.json`)
-    fetch("https://api.elezioni.io/browse/?page_size=200")
+    fetch("https://api.elezioni.io/browse/?page_size=400")
       .then(response => {
         return response.json();
       })

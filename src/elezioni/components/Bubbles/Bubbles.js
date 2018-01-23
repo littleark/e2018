@@ -25,19 +25,20 @@ const areas = [
   'sinistra',
 ]
 const  colors = {
-  destra: '#1E7AF7',
+  destra: '#244761',
   'centro-destra': '#56CCF2',
   'centro-sinistra': '#F55B5B',
   sinistra: 'rgba(186,0,78,1)',
   m5s: '#FFDC73',
+  black: 'rgba(0,0,0,0)',
 }
 
 const MIN_WIDTH = 800;
 const BLOCK_HEIGHT = 2000;
 const ARTICLES_IN_BLOCK = 200;
-const TOP_ARTICLES = 10;
+const TOP_ARTICLES = 20;
 const SPACE_BETWEEN_TOP = 100;
-const TOP_PART = window.innerHeight * 0.9 - SPACE_BETWEEN_TOP;
+const TOP_PART = (window.innerHeight * 0.9) * 2 - SPACE_BETWEEN_TOP;
 
 const MAX_WIDTH_FOR_TITLES = 150;
 
@@ -65,7 +66,7 @@ class Bubbles extends Component {
       //.force("collide", forceCollide(4))
       .force("collide", forceCollide().radius(function(d,i) {
         if(i<=TOP_ARTICLES) {
-          return d.r + SPACE_BETWEEN_TOP;
+          return d.r + SPACE_BETWEEN_TOP + 2.5;
         }
         return d.r + 2.5;
       }).iterations(2))
@@ -101,7 +102,8 @@ class Bubbles extends Component {
     const extents = {
       y:[
         extent(articles.filter((d,i) => i <= TOP_ARTICLES), d => +d[yField]),
-        extent(articles.filter((d,i) => i > TOP_ARTICLES), d => +d[yField])
+        extent(articles.filter((d,i) => i > TOP_ARTICLES), d => +d[yField]),
+        extent(articles, d => +d[yField])
       ],
       r:extent(articles, d => {
         // console.log(d)
@@ -114,7 +116,7 @@ class Bubbles extends Component {
     const maxRadius = width / 8;
     this.yscales = [
       scaleLinear().domain(extents.y[0]).range([margins.top,TOP_PART]),
-      scaleLinear().domain(extents.y[1]).range([TOP_PART + SPACE_BETWEEN_TOP +margins.top,this.height - margins.bottom])
+      scaleLinear().domain(extents.y[1]).range([TOP_PART + SPACE_BETWEEN_TOP*2 +margins.top,this.height - margins.bottom])
     ]
     this.rscale = scaleSqrt().domain([extents.pop[0], Math.min(extents.pop[1], 3000)]).range([minRadius,maxRadius]).clamp(true);
     colorScale.domain(extents.pop);
@@ -162,24 +164,38 @@ class Bubbles extends Component {
 
 
       let bgColor = colors[bubble.collections[0].slug];
-      const l = bubble.collections.length;
+      const collection = bubble.collections.sort((a,b) => areas.indexOf(a.slug) - areas.indexOf(b.slug));
+      const l = collection.length;
 
-      // linear-gradient(to right, $centro-destra 0%,$centro-sinistra 100%);
+      const outerCircleRadius = bubble.r + SPACE_BETWEEN_TOP;
+      const outerCircleStyle = {
+        width: `${outerCircleRadius * 2}px`,
+        height: `${outerCircleRadius * 2}px`,
+        background: bgColor,
+        top: `calc(50% + ${SPACE_BETWEEN_TOP - 10}px)`,
+      };
 
       if(l > 1) {
           const bgColorStep = Math.floor(100 / (l - 1));
-          const bgGradient = bubble.collections.sort((a,b) => areas.indexOf(a.slug) - areas.indexOf(b.slug)).map((d,i) => `${colors[d.slug]} ${i * bgColorStep}%`).join(',');
+          const bgGradient = collection.map((d,i) => `${colors[d.slug]} ${i * bgColorStep}%`).join(',');
           bgColor = `linear-gradient(to right, ${bgGradient})`;
           //bgColor = `radial-gradient(circle at center, ${bgGradient})`;
+
+        // const bgRadialColorStep = Math.floor(100 / (l));
+        // const bgRadialGradient = [...collection,{slug:'black'}].map((d,i) => `${colors[d.slug]} ${i * bgRadialColorStep}%`).join(',');
+        // const bgRadialColor = `radial-gradient(circle at center, ${bgRadialGradient})`;
+        //outerCircleStyle.background = bgRadialColor;
+        outerCircleStyle.background = bgColor;
       }
 
       return <li key={bubble.id} style={{
       left:`${bubble.x - bubble.r}px`,
-      top:`${bubble.y - bubble.r}px`,
+      top:`${bubble.y - bubble.r - (bubble.index <= TOP_ARTICLES ? SPACE_BETWEEN_TOP : 0)}px`,
       width:`${bubble.r*2}px`,
       height:`${bubble.r*2}px`,
         background:bgColor,
       }} className={`${bubble.index <= TOP_ARTICLES ? 'top-articles' : 'bottom-articles'} ${bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'}`}>
+        { bubble.index <= TOP_ARTICLES && <div className="top-article-outer-circle" style={outerCircleStyle}/>}
         { bubble.r*2 >= MAX_WIDTH_FOR_TITLES && <span className="inside"><h2>{bubble.title}</h2></span>}
         { bubble.index <= TOP_ARTICLES && <span className="top-title"><h2>{bubble.title}</h2></span>}
         <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3>{bubble.title}<h4>{bubble.source}</h4></span>
