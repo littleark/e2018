@@ -16,12 +16,12 @@ const BLOCK_HEIGHT = 2000;
 const ARTICLES_IN_BLOCK = 200;
 const TOP_ARTICLES = 30;
 const SPACE_BETWEEN_TOP = 100;
-const TOP_PART = (window.innerHeight * 0.9) * 2.5;
+const TOP_PART = (window.innerHeight * 0.9) * 2 + (window.innerHeight * 0.9) * 0.7;
 
 const MAX_WIDTH_FOR_TITLES = 150;
 
 const margins = {
-  top: SPACE_BETWEEN_TOP,
+  top: SPACE_BETWEEN_TOP * 2,
   bottom: 80,
   left: 0,
   right: 0,
@@ -118,7 +118,7 @@ class Bubbles extends Component {
     const maxRadius = width / 8;
     this.yscales = [
       scaleLinear().domain(extents.y[0]).range([margins.top,TOP_PART]),
-      scaleLinear().domain(extents.y[1]).range([TOP_PART+margins.top,this.height - margins.bottom])
+      scaleLinear().domain(extents.y[1]).range([TOP_PART,this.height - margins.bottom])
     ]
 
     this.radiusDeltaScale = scaleLinear().domain([TOP_ARTICLES/2, TOP_ARTICLES]).range([1, 0]).clamp(true);
@@ -202,9 +202,9 @@ class Bubbles extends Component {
         background:bgColor,
       }} className={`${bubble.index <= TOP_ARTICLES ? 'top-articles' : 'bottom-articles'} ${bubble.r*2 >= MAX_WIDTH_FOR_TITLES ? 'big' : 'small'}`}>
         { bubble.index <= TOP_ARTICLES && <div className="top-article-inner-circle" style={innerCircleStyle}/>}
-        { bubble.r*2 >= MAX_WIDTH_FOR_TITLES && <span className="inside"><h2>{bubble.title}</h2></span>}
+        { bubble.r*2 >= MAX_WIDTH_FOR_TITLES && <span className="inside" style={{opacity:bubble.innerOpacity}}><h2>{bubble.title}</h2></span>}
         {/* { bubble.index <= TOP_ARTICLES && <span className="top-title"><h2>{bubble.title}</h2></span>} */}
-        <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3>{bubble.title}<h4>{bubble.source}</h4></span>
+        <span className="outside" style={{top:`${bubble.r}px`}}><h3>{bubble.short_published}</h3><h2>{bubble.title}</h2><p>{bubble.description}</p><h4>{bubble.source}</h4></span>
     </li>})
 
     const ticks = this.state.bubbles.filter(bubble => bubble.date).filter((d,i) => i%2).map(bubble => {

@@ -4,6 +4,10 @@ const sentencesToBeCleanedUp = [
   ' \\| VIDEO',
   ' - Secolo d\'Italia',
   ' \\| Sky TG24',
+  ' \\| LaPresse',
+  ' - La Nazione',
+  ' \\(FOTO, DOCUMENTO\\)',
+  ' - QuotidianoNet'
 ];
 
 export const cleanUp = (sentence) => {
